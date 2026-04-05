@@ -1,6 +1,10 @@
 {
   "custom_nodes": [
     {
+      "repo_dir": "simple_batch_prompt",
+      "repo": "https://github.com/jeremytenjo/simple_batch_prompt.git"
+    },
+    {
       "repo_dir": "ComfyUI-RMBG",
       "repo": "https://github.com/1038lab/ComfyUI-RMBG.git"
     },

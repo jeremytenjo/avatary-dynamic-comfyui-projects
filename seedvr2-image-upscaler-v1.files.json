@@ -11,6 +11,10 @@
     {
       "repo_dir": "ComfyUI_essentials",
       "repo": "https://github.com/cubiq/ComfyUI_essentials.git"
+    },
+    {
+      "repo_dir": "ComfyUI-KJNodes",
+      "repo": "https://github.com/kijai/ComfyUI-KJNodes.git"
     }
   ],
   "files": [

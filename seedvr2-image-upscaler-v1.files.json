@@ -1,0 +1,26 @@
+{
+  "custom_nodes": [
+    {
+      "repo_dir": "ComfyUI-SeedVR2_VideoUpscaler",
+      "repo": "https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Easy-Use",
+      "repo": "https://github.com/yolain/ComfyUI-Easy-Use.git"
+    },
+    {
+      "repo_dir": "ComfyUI_essentials",
+      "repo": "https://github.com/cubiq/ComfyUI_essentials.git"
+    }
+  ],
+  "files": [
+    {
+      "url": "https://huggingface.co/avatary-ai/files/resolve/main/seedvr2_ema_7b_fp16.safetensors",
+      "target": "models/SEEDVR2/seedvr2_ema_7b_fp16.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/avatary-ai/files/resolve/main/ema_vae_fp16.safetensors",
+      "target": "models/SEEDVR2/ema_vae_fp16.safetensors"
+    }
+  ]
+}

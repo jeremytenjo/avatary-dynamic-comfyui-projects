@@ -1,0 +1,98 @@
+{
+  "custom_nodes": [
+    {
+      "repo_dir": "ComfyUI-SeedVR2_VideoUpscaler",
+      "repo": "https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Easy-Use",
+      "repo": "https://github.com/yolain/ComfyUI-Easy-Use.git"
+    },
+    {
+      "repo_dir": "ComfyUI_essentials",
+      "repo": "https://github.com/cubiq/ComfyUI_essentials.git"
+    },
+    {
+      "repo_dir": "ComfyUI-KJNodes",
+      "repo": "https://github.com/kijai/ComfyUI-KJNodes.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Impact-Pack",
+      "repo": "https://github.com/ltdrdata/ComfyUI-Impact-Pack.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Impact-Subpack",
+      "repo": "https://github.com/ltdrdata/ComfyUI-Impact-Subpack.git"
+    },
+    {
+      "repo_dir": "ComfyUI-JoyCaption",
+      "repo": "https://github.com/1038lab/ComfyUI-JoyCaption.git"
+    },
+    {
+      "repo_dir": "rgthree-comfy",
+      "repo": "https://github.com/rgthree/rgthree-comfy.git"
+    },
+    {
+      "repo_dir": "Comfyui-NAG-Aiorbust",
+      "repo": "https://github.com/dci05049/Comfyui-NAG-Aiorbust.git"
+    },
+    {
+      "repo_dir": "TODO-ComfyUI-Huslyo123RealismNode-V2",
+      "repo": "TODO_REPO_URL_FOR_HUSLYO123REALISMNODE"
+    }
+  ],
+  "files": [
+    {
+      "url": "https://huggingface.co/avatary-ai/files/resolve/main/qwen_3_4b.safetensors",
+      "target": "models/text_encoders/qwen_3_4b.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/avatary-ai/files/resolve/main/z_image_turbo.safetensors",
+      "target": "models/diffusion_models/z_image_turbo_bf16.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/avatary-ai/files/resolve/main/lustifySDXLNSFW_endgame.safetensors",
+      "target": "models/checkpoints/lustifySDXLNSFW_endgame.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/avatary-ai/files/resolve/main/seedvr2_ema_7b_fp16.safetensors",
+      "target": "models/SEEDVR2/seedvr2_ema_7b_fp16.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/avatary-ai/files/resolve/main/ema_vae_fp16.safetensors",
+      "target": "models/SEEDVR2/ema_vae_fp16.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/avatary-ai/files/resolve/main/sam_vit_b_01ec64.pth",
+      "target": "models/sams/sam_vit_b_01ec64.pth"
+    },
+    {
+      "url": "https://huggingface.co/alibaba-pai/Z-Image-Turbo-Fun-Controlnet-Union/resolve/main/Z-Image-Turbo-Fun-Controlnet-Union.safetensors",
+      "target": "models/model_patches/Z-Image-Turbo-Fun-Controlnet-Union-2.1-2602-8steps.safetensors"
+    },
+    {
+      "url": "TODO_URL_FOR_flux_vae.safetensors",
+      "target": "models/vae/flux_vae.safetensors"
+    },
+    {
+      "url": "TODO_URL_FOR_l1l1-zturbo-v2-5000.safetensors",
+      "target": "models/loras/l1l1-zturbo-v2-5000.safetensors"
+    },
+    {
+      "url": "TODO_URL_FOR_huslyorealismxl_v2.safetensors",
+      "target": "models/checkpoints/huslyorealismxl_v2.safetensors"
+    },
+    {
+      "url": "TODO_URL_FOR_PitEyeDetailer-v2-seg.pt",
+      "target": "models/ultralytics/bbox/PitEyeDetailer-v2-seg.pt"
+    },
+    {
+      "url": "TODO_URL_FOR_Nipples.pt",
+      "target": "models/ultralytics/bbox/Nipples.pt"
+    },
+    {
+      "url": "TODO_URL_FOR_pussyV2.pt",
+      "target": "models/ultralytics/bbox/pussyV2.pt"
+    }
+  ]
+}

@@ -37,8 +37,8 @@
       "repo": "https://github.com/dci05049/Comfyui-NAG-Aiorbust.git"
     },
     {
-      "repo_dir": "TODO-ComfyUI-Huslyo123RealismNode-V2",
-      "repo": "TODO_REPO_URL_FOR_HUSLYO123REALISMNODE"
+      "repo_dir": "ComfyUI-Huslyo123RealismNode-V2",
+      "repo": "https://huggingface.co/spaces/Huslyo123/comfyui-Huslyo123RealismNode-V2"
     }
   ],
   "files": [

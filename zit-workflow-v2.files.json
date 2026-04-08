@@ -71,27 +71,27 @@
       "target": "models/model_patches/Z-Image-Turbo-Fun-Controlnet-Union-2.1-2602-8steps.safetensors"
     },
     {
-      "url": "TODO_URL_FOR_flux_vae.safetensors",
-      "target": "models/vae/flux_vae.safetensors"
+      "url": "https://huggingface.co/avatary-ai/files/resolve/main/z_image_vae.safetensors",
+      "target": "models/vae/z_image_vae.safetensors"
     },
     {
-      "url": "TODO_URL_FOR_l1l1-zturbo-v2-5000.safetensors",
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/LilyStone/zImage/ostris-ai-toolkit/l1l1-zturbo-v2-5000.safetensors",
       "target": "models/loras/l1l1-zturbo-v2-5000.safetensors"
     },
     {
-      "url": "TODO_URL_FOR_huslyorealismxl_v2.safetensors",
+      "url": "https://civitai.com/models/1802228/huslyorealismxl",
       "target": "models/checkpoints/huslyorealismxl_v2.safetensors"
     },
     {
-      "url": "TODO_URL_FOR_PitEyeDetailer-v2-seg.pt",
+      "url": "https://huggingface.co/ashllay/YOLO_Models/resolve/main/segm/PitEyeDetailer-v2-seg.pt",
       "target": "models/ultralytics/bbox/PitEyeDetailer-v2-seg.pt"
     },
     {
-      "url": "TODO_URL_FOR_Nipples.pt",
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/Nipples.pt",
       "target": "models/ultralytics/bbox/Nipples.pt"
     },
     {
-      "url": "TODO_URL_FOR_pussyV2.pt",
+      "url": "https://huggingface.co/AunyMoons/loras-pack/resolve/843812eeece00c067cd1987e97cee2f7f961df40/pussyV2.pt",
       "target": "models/ultralytics/bbox/pussyV2.pt"
     }
   ]

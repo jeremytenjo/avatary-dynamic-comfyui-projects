@@ -37,6 +37,22 @@
       "repo": "https://github.com/dci05049/Comfyui-NAG-Aiorbust.git"
     },
     {
+      "repo_dir": "ComfyUI_Comfyroll_CustomNodes",
+      "repo": "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes.git"
+    },
+    {
+      "repo_dir": "comfyui_tinyterranodes",
+      "repo": "https://github.com/TinyTerra/ComfyUI_tinyterraNodes.git"
+    },
+    {
+      "repo_dir": "comfyui-custom-scripts",
+      "repo": "https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git"
+    },
+    {
+      "repo_dir": "comfyui-ollama",
+      "repo": "https://github.com/stavsap/comfyui-ollama.git"
+    },
+    {
       "repo_dir": "ComfyUI-Huslyo123RealismNode-V2",
       "repo": "https://huggingface.co/spaces/Huslyo123/comfyui-Huslyo123RealismNode-V2"
     }

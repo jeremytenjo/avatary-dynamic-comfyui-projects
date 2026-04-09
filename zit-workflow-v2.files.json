@@ -95,7 +95,7 @@
       "target": "models/loras/l1l1-zturbo-v2-5000.safetensors"
     },
     {
-      "url": "https://civitai.com/models/1802228/huslyorealismxl",
+      "url": "https://civitai.com/api/download/models/2399863?type=Model&format=SafeTensor&size=full&fp=fp16",
       "target": "models/checkpoints/huslyorealismxl_v2.safetensors"
     },
     {

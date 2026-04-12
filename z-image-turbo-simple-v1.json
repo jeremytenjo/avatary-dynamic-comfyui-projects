@@ -11,7 +11,7 @@
     },
     {
       "url": "https://huggingface.co/Comfy-Org/z_image_turbo/resolve/main/split_files/vae/ae.safetensors",
-      "target": "models/vae/ae.safetensors"
+      "target": "models/vae/flux_vae.safetensors"
     },
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/lora-an3ko-body-wavespeed-v1.safetensors",

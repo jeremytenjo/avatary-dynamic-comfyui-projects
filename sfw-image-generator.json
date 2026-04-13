@@ -35,8 +35,8 @@
   ],
   "files": [
     {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/lustifySDXLNSFW_endgame.safetensors",
-      "target": "models/checkpoints/lustify_endgame.safetensors"
+      "url": "https://huggingface.co/avatary-ai/files/resolve/main/lustifySDXLNSFW_endgame.safetensors",
+      "target": "models/checkpoints/lustifySDXLNSFW_endgame.safetensors"
     },
     {
       "url": "https://huggingface.co/avatary-ai/files/resolve/main/dmd2_sdxl_4step_lora.safetensors",

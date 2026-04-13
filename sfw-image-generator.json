@@ -9,8 +9,62 @@
   ],
   "custom_nodes": [
     {
+      "repo_dir": "ComfyUI-Impact-Pack",
+      "repo": "https://github.com/ltdrdata/ComfyUI-Impact-Pack.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Impact-Subpack",
+      "repo": "https://github.com/ltdrdata/ComfyUI-Impact-Subpack.git"
+    },
+    {
+      "repo_dir": "ComfyUI-NAG",
+      "repo": "https://github.com/ChenDarYen/ComfyUI-NAG.git"
+    },
+    {
+      "repo_dir": "rgthree-comfy",
+      "repo": "https://github.com/rgthree/rgthree-comfy.git"
+    },
+    {
+      "repo_dir": "ComfyUI-GlifNodes",
+      "repo": "https://github.com/glifxyz/ComfyUI-GlifNodes.git"
+    },
+    {
       "repo_dir": "ComfyUI-Huslyo123RealismNode-V2",
       "repo": "https://huggingface.co/spaces/Huslyo123/comfyui-Huslyo123RealismNode-V2"
+    }
+  ],
+  "files": [
+    {
+      "url": "TODO_URL_FOR_lustify_endgame.safetensors",
+      "target": "models/checkpoints/lustify_endgame.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/avatary-ai/files/resolve/main/dmd2_sdxl_4step_lora.safetensors",
+      "target": "models/loras/dmd2_sdxl_4step_lora.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/avatary-ai/files/resolve/main/4xNMKDSuperscale_4xNMKDSuperscale.pt",
+      "target": "models/upscale_models/4xNMKDSuperscale_4xNMKDSuperscale.pt"
+    },
+    {
+      "url": "https://huggingface.co/avatary-ai/files/resolve/main/1xSkinContrast-High-SuperUltraCompact.pth",
+      "target": "models/upscale_models/1xSkinContrast-High-SuperUltraCompact.pth"
+    },
+    {
+      "url": "https://huggingface.co/avatary-ai/files/resolve/main/1x-ITF-SkinDiffDetail-Lite-v1.pth",
+      "target": "models/upscale_models/1x-ITF-SkinDiffDetail-Lite-v1.pth"
+    },
+    {
+      "url": "https://huggingface.co/avatary-ai/files/resolve/main/sam_vit_b_01ec64.pth",
+      "target": "models/sams/sam_vit_b_01ec64.pth"
+    },
+    {
+      "url": "https://huggingface.co/avatary-ai/files/resolve/main/face_yolov8m.pt",
+      "target": "models/ultralytics/bbox/face_yolov8m.pt"
+    },
+    {
+      "url": "https://huggingface.co/avatary-ai/files/resolve/main/hand_yolov8s.pt",
+      "target": "models/ultralytics/bbox/hand_yolov8s.pt"
     }
   ]
 }

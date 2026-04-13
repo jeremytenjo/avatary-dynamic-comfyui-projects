@@ -35,7 +35,7 @@
   ],
   "files": [
     {
-      "url": "TODO_URL_FOR_lustify_endgame.safetensors",
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/lustifySDXLNSFW_endgame.safetensors",
       "target": "models/checkpoints/lustify_endgame.safetensors"
     },
     {

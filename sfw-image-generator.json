@@ -6,5 +6,11 @@
     {
       "project_url": "https://github.com/jeremytenjo/avatary-dynamic-comfyui-projects/blob/main/seedvr2-image-upscaler.json"
     }
+  ],
+  "custom_nodes": [
+    {
+      "repo_dir": "ComfyUI-Huslyo123RealismNode-V2",
+      "repo": "https://huggingface.co/spaces/Huslyo123/comfyui-Huslyo123RealismNode-V2"
+    }
   ]
 }

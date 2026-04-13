@@ -1,0 +1,32 @@
+# GPU-ready base with PyTorch preinstalled.
+FROM pytorch/pytorch:2.6.0-cuda12.4-cudnn9-runtime
+
+ENV DEBIAN_FRONTEND=noninteractive \
+    PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1
+
+WORKDIR /app
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    git \
+    ffmpeg \
+    libgl1 \
+    libglib2.0-0 \
+  && rm -rf /var/lib/apt/lists/*
+
+# Clone standalone SeedVR2 implementation (no ComfyUI server/runtime).
+RUN git clone --depth 1 https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler.git /opt/seedvr2
+
+COPY requirements.seedvr2-standalone-api.txt /app/requirements.seedvr2-standalone-api.txt
+RUN pip install --no-cache-dir -r /opt/seedvr2/requirements.txt \
+  && pip install --no-cache-dir -r /app/requirements.seedvr2-standalone-api.txt
+
+COPY seedvr2_standalone_api.py /app/seedvr2_standalone_api.py
+
+ENV SEEDVR2_REPO_DIR=/opt/seedvr2 \
+    SEEDVR2_PYTHON_BIN=python \
+    MODEL_DIR=/app/models/SEEDVR2
+
+EXPOSE 8000
+
+CMD ["uvicorn", "seedvr2_standalone_api:app", "--host", "0.0.0.0", "--port", "8000"]

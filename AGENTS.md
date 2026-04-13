@@ -54,6 +54,9 @@ Examples:
 - Use 2-space indentation.
 - Keep paths case-sensitive and consistent with ComfyUI folders.
 - Prefer unique `repo_dir` values.
+- If using `import_projects`, do not duplicate dependencies already provided by imported manifests.
+  - No overlap on `custom_nodes.repo_dir`.
+  - No overlap on `files.target`.
 - Prefer pinned/controlled file URLs that won’t move unexpectedly.
 
 ## Placeholders for unknown dependencies
@@ -99,6 +102,7 @@ for f in *.json; do echo "Checking $f"; jq . "$f" >/dev/null; done
 Before committing a new/updated manifest:
 - JSON parses with `jq`
 - unresolved dependencies are explicitly listed as `TODO_*` placeholders
+- when `import_projects` is present, added `custom_nodes.repo_dir` and `files.target` do not overlap imported manifests
 - all non-placeholder `repo` URLs are reachable
 - all non-placeholder `url` download links are correct
 - all `target` paths are intentional

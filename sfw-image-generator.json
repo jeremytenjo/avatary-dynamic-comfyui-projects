@@ -2,6 +2,9 @@
   "import_projects": [
     {
       "project_url": "https://github.com/jeremytenjo/avatary-dynamic-comfyui-projects/blob/81efa4cece94a4f202c81839c11e4996f107f2a4/z-image-turbo.json"
+    },
+    {
+      "project_url": "https://github.com/jeremytenjo/avatary-dynamic-comfyui-projects/blob/b762bb15b9c31dbd063133e7c2cf0fce3b42ac89/seedvr2-image-upscaler.json"
     }
   ]
 }

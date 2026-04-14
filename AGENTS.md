@@ -1,20 +1,26 @@
 # AGENTS.md
 
 ## Purpose
+
 This repo stores **project JSON manifests** that define:
+
 - which ComfyUI custom node repos to install
 - which model/data files to download
 
 Each manifest follows this structure:
+
 - `custom_nodes`: array of `{ "repo_dir", "repo" }`
 - `files`: array of `{ "url", "target" }`
 
 ## File naming convention
+
 Use a clear, versioned filename:
+
 - `<project-name>-v<version>.json`
 - `<project-name>-v<version>.files.json` (optional variant if you want to emphasize file manifests)
 
 Examples:
+
 - `avatary-image-generator-v1.json`
 - `seedvr2-image-upscaler-v1.files.json`
 
@@ -38,6 +44,7 @@ Examples:
 ```
 
 ## How to create a new project JSON
+
 1. Copy an existing manifest as a starting point.
 2. Rename it to the new project name and version.
 3. Update `custom_nodes`:
@@ -50,16 +57,21 @@ Examples:
 6. Keep arrays ordered logically (core dependencies first).
 
 ## Authoring rules
+
 - Keep valid JSON (no trailing commas, double quotes only).
 - Use 2-space indentation.
 - Keep paths case-sensitive and consistent with ComfyUI folders.
 - Prefer unique `repo_dir` values.
+- Reuse dependencies from existing project manifests when applicable:
+  - Before adding a new `custom_nodes` entry, check other project JSON files for the same dependency and reuse the same `repo_dir` + `repo` values when they match.
+  - Before adding a new `files` entry, check other project JSON files for the same asset and reuse the same `target` path and URL pattern when they match.
 - If using `import_projects`, do not duplicate dependencies already provided by imported manifests.
   - No overlap on `custom_nodes.repo_dir`.
   - No overlap on `files.target`.
 - Prefer pinned/controlled file URLs that won’t move unexpectedly.
 
 ## Placeholders for unknown dependencies
+
 If a workflow references a custom node repo or file that you cannot resolve yet, **keep it in the manifest as a placeholder** (do not omit it).
 
 Use this format:
@@ -79,6 +91,7 @@ Use this format:
 ```
 
 Placeholder rules:
+
 - Prefix unknown custom node directories with `TODO-`.
 - Prefix unknown repo URLs with `TODO_REPO_URL_FOR_`.
 - Prefix unknown file URLs with `TODO_URL_FOR_`.
@@ -86,6 +99,7 @@ Placeholder rules:
 - Replace placeholders as soon as real sources are confirmed.
 
 ## Quick validation
+
 Run these checks after editing:
 
 ```bash
@@ -99,7 +113,9 @@ for f in *.json; do echo "Checking $f"; jq . "$f" >/dev/null; done
 ```
 
 ## Change checklist
+
 Before committing a new/updated manifest:
+
 - JSON parses with `jq`
 - unresolved dependencies are explicitly listed as `TODO_*` placeholders
 - when `import_projects` is present, added `custom_nodes.repo_dir` and `files.target` do not overlap imported manifests

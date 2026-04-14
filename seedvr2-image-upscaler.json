@@ -17,8 +17,8 @@
       "repo": "https://github.com/kijai/ComfyUI-KJNodes.git"
     },
     {
-      "repo_dir": "ComfyUI_Comfyroll_CustomNodes",
-      "repo": "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes"
+      "repo_dir": "was-node-suite-comfyui",
+      "repo": "https://github.com/WASasquatch/was-node-suite-comfyui"
     }
   ],
   "files": [

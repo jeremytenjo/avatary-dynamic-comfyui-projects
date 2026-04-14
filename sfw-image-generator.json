@@ -17,8 +17,8 @@
       "repo": "https://github.com/ltdrdata/ComfyUI-Impact-Subpack.git"
     },
     {
-      "repo_dir": "ComfyUI-NAG",
-      "repo": "https://github.com/ChenDarYen/ComfyUI-NAG.git"
+      "repo_dir": "Comfyui-NAG-Aiorbust",
+      "repo": "https://github.com/dci05049/Comfyui-NAG-Aiorbust"
     },
     {
       "repo_dir": "rgthree-comfy",

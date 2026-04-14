@@ -1,10 +1,12 @@
 # SeedVR2 Standalone API (No ComfyUI Runtime)
 
 This wrapper exposes SeedVR2 as a simple HTTP API:
+
 - Input: image upload
 - Output: upscaled image (`image/png`)
 
 It reuses the standalone `inference_cli.py` from `ComfyUI-SeedVR2_VideoUpscaler` and applies defaults from your workflow (`seedvr2-image-upscaler-v1`):
+
 - `dit_model=seedvr2_ema_7b_fp16.safetensors`
 - `resolution=3840`
 - `max_resolution=0`

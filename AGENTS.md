@@ -21,8 +21,8 @@ Use a clear, versioned filename:
 
 Examples:
 
-- `avatary-image-generator-v1.json`
-- `seedvr2-image-upscaler-v1.files.json`
+- `avatary-image-generator.json`
+- `seedvr2-image-upscaler.files.json`
 
 ## Manifest schema
 

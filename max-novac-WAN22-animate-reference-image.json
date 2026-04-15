@@ -39,7 +39,7 @@
       "target": "models/text_encoders/umt5-xxl-enc-bf16.safetensors"
     },
     {
-      "url": "TODO_URL_FOR_clip_vision_h.safetensors",
+      "url": "https://huggingface.co/calcuis/wan-gguf/resolve/f52f5a1f0ba441d50277fb7cdd7c1b36611837f9/clip_vision_h.safetensors",
       "target": "models/clip_vision/clip_vision_h.safetensors"
     },
     {

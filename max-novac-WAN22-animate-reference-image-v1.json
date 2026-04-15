@@ -1,0 +1,58 @@
+{
+  "custom_nodes": [
+    {
+      "repo_dir": "ComfyUI-WanVideoWrapper",
+      "repo": "https://github.com/kijai/ComfyUI-WanVideoWrapper.git"
+    },
+    {
+      "repo_dir": "ComfyUI-VideoHelperSuite",
+      "repo": "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite.git"
+    },
+    {
+      "repo_dir": "ComfyUI-KJNodes",
+      "repo": "https://github.com/kijai/ComfyUI-KJNodes.git"
+    },
+    {
+      "repo_dir": "comfyui_controlnet_aux",
+      "repo": "https://github.com/Fannovel16/comfyui_controlnet_aux.git"
+    },
+    {
+      "repo_dir": "cg-use-everywhere",
+      "repo": "https://github.com/chrisgoringe/cg-use-everywhere"
+    },
+    {
+      "repo_dir": "rgthree-comfy",
+      "repo": "https://github.com/rgthree/rgthree-comfy.git"
+    }
+  ],
+  "files": [
+    {
+      "url": "https://huggingface.co/Kijai/WanVideo_comfy_fp8_scaled/resolve/main/Wan22Animate/Wan2_2-Animate-14B_fp8_e4m3fn_scaled_KJ.safetensors",
+      "target": "models/diffusion_models/Wan2_2-Animate-14B_fp8_e4m3fn_scaled_KJ.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Wan2_1_VAE_bf16.safetensors",
+      "target": "models/vae/Wan2_1_VAE_bf16.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/umt5-xxl-enc-bf16.safetensors",
+      "target": "models/text_encoders/umt5-xxl-enc-bf16.safetensors"
+    },
+    {
+      "url": "TODO_URL_FOR_clip_vision_h.safetensors",
+      "target": "models/clip_vision/clip_vision_h.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Lightx2v/lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors",
+      "target": "models/loras/lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/hr16/yolox-onnx/resolve/main/yolox_l.torchscript.pt",
+      "target": "models/dwpose/yolox_l.torchscript.pt"
+    },
+    {
+      "url": "https://huggingface.co/hr16/DWPose-TorchScript-BatchSize5/resolve/main/dw-ll_ucoco_384_bs5.torchscript.pt",
+      "target": "models/dwpose/dw-ll_ucoco_384_bs5.torchscript.pt"
+    }
+  ]
+}

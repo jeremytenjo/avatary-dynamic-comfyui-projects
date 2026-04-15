@@ -24,10 +24,6 @@
     {
       "repo_dir": "ComfyUI-GlifNodes",
       "repo": "https://github.com/glifxyz/ComfyUI-GlifNodes.git"
-    },
-    {
-      "repo_dir": "ComfyUI-Huslyo123RealismNode-V2",
-      "repo": "https://huggingface.co/spaces/Huslyo123/comfyui-Huslyo123RealismNode-V2"
     }
   ],
   "files": [

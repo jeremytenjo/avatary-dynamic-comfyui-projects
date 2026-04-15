@@ -19,8 +19,8 @@
       "target": "models/vae/flux_vae.safetensors"
     },
     {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/lora-an3ko-body-wavespeed-v1.safetensors",
-      "target": "models/loras/lora-an3ko-body-wavespeed-v1.safetensors"
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/an3ko-lora-body-ostris-ai-v1.safetensors",
+      "target": "models/loras/an3ko-lora-body-ostris-ai-v1.safetensors"
     }
   ]
 }

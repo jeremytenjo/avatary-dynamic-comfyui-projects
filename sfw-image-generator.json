@@ -24,6 +24,10 @@
     {
       "repo_dir": "ComfyUI-GlifNodes",
       "repo": "https://github.com/glifxyz/ComfyUI-GlifNodes.git"
+    },
+    {
+      "repo_dir": "ComfyUI-QwenVL",
+      "repo": "https://github.com/1038lab/ComfyUI-QwenVL"
     }
   ],
   "files": [

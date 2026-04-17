@@ -1,10 +1,10 @@
 {
   "import_projects": [
     {
-      "project_url": "https://github.com/jeremytenjo/avatary-dynamic-comfyui-projects/main/z-image-turbo.json"
+      "project_url": "https://github.com/jeremytenjo/avatary-dynamic-comfyui-projects/blob/main/z-image-turbo.json"
     },
     {
-      "project_url": "/Users/jeremytenjo/Dev/Avatary/avatary-dynamic-comfyui-projects/qwen-image-edit-2511.json"
+      "project_url": "/Users/jeremytenjo/Dev/Avatary/avatary-dynamic-comfyui-projects/blob/qwen-image-edit-2511.json"
     }
   ],
   "custom_nodes": [

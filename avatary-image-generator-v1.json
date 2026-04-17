@@ -87,7 +87,7 @@
       "target": "models/diffusion_models/z_image_turbo.safetensors"
     },
     {
-      "url": "https://huggingface.co/avatary-ai/files/resolve/main/lustify_endgame.safetensors",
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/lustify_endgame.safetensors",
       "target": "models/checkpoints/lustify_endgame.safetensors"
     },
     {

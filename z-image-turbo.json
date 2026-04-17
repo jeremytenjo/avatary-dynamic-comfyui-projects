@@ -23,10 +23,6 @@
       "target": "models/loras/an3ko-lora-body-aiorbust-v1.safetensors"
     },
     {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/Z-Real-v1.0.safetensors",
-      "target": "models/loras/Z-Real-v1.0.safetensors"
-    },
-    {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/Z-Image-Turbo-Fun-Controlnet-Union-2.1-2602-8steps.safetensors",
       "target": "models/loras/Z-Image-Turbo-Fun-Controlnet-Union-2.1-2602-8steps.safetensors"
     },

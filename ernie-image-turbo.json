@@ -65,14 +65,6 @@
     {
       "url": "https://huggingface.co/Aitrepreneur/FLX/resolve/main/4x-ClearRealityV1.pth?download=true",
       "target": "models/upscale_models/4x-ClearRealityV1.pth"
-    },
-    {
-      "url": "TODO_URL_FOR_hirohiko-araki-style-ERNIE_000001250.safetensors",
-      "target": "models/loras/hirohiko-araki-style-ERNIE_000001250.safetensors"
-    },
-    {
-      "url": "TODO_URL_FOR_ernie-anime-v1.safetensors",
-      "target": "models/loras/ernie-anime-v1.safetensors"
     }
   ]
 }

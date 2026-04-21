@@ -1,16 +1,13 @@
 {
+  "import_projects": [
+    {
+      "project_url": "https://github.com/jeremytenjo/avatary-dynamic-comfyui-projects/blob/main/head-swap-v1.json"
+    }
+  ],
   "custom_nodes": [
     {
       "repo_dir": "simple_batch_prompt",
       "repo": "https://github.com/jeremytenjo/simple_batch_prompt.git"
-    },
-    {
-      "repo_dir": "ComfyUI-RMBG",
-      "repo": "https://github.com/1038lab/ComfyUI-RMBG.git"
-    },
-    {
-      "repo_dir": "ComfyUI-Inpaint-CropAndStitch",
-      "repo": "https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch.git"
     },
     {
       "repo_dir": "ComfyUI-GGUF",
@@ -125,10 +122,6 @@
     {
       "url": "https://huggingface.co/avatary-ai/files/resolve/main/ema_vae_fp16.safetensors",
       "target": "models/SEEDVR2/ema_vae_fp16.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/avatary-ai/files/resolve/main/sam3.pt",
-      "target": "models/sam3/sam3.pt"
     },
     {
       "url": "https://huggingface.co/avatary-ai/files/resolve/main/sam_vit_b_01ec64.pth",

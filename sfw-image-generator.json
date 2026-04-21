@@ -65,7 +65,7 @@
     },
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/Z-Image-Turbo-Fun-Controlnet-Union-2.1-2602-8steps.safetensors?download=true",
-      "target": "models/mode_patches/Z-Image-Turbo-Fun-Controlnet-Union-2.1-2602-8steps.safetensors"
+      "target": "models/model_patches/Z-Image-Turbo-Fun-Controlnet-Union-2.1-2602-8steps.safetensors"
     },
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/RealisticSnapshot-Zimage-Turbov5.safetensors?download=true",

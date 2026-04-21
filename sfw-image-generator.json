@@ -62,14 +62,6 @@
     {
       "url": "https://huggingface.co/avatary-ai/files/resolve/main/hand_yolov8s.pt",
       "target": "models/ultralytics/bbox/hand_yolov8s.pt"
-    },
-    {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/Z-Image-Turbo-Fun-Controlnet-Union-2.1-2602-8steps.safetensors?download=true",
-      "target": "models/model_patches/Z-Image-Turbo-Fun-Controlnet-Union-2.1-2602-8steps.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/RealisticSnapshot-Zimage-Turbov5.safetensors?download=true",
-      "target": "models/loras/RealisticSnapshot-Zimage-Turbov5.safetensors"
     }
   ]
 }

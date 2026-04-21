@@ -1,0 +1,54 @@
+{
+  "custom_nodes": [
+    {
+      "repo_dir": "ComfyUI-GGUF",
+      "repo": "https://github.com/city96/ComfyUI-GGUF.git"
+    },
+    {
+      "repo_dir": "ComfyUI-KJNodes",
+      "repo": "https://github.com/kijai/ComfyUI-KJNodes.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Image-Saver",
+      "repo": "https://github.com/alexopus/ComfyUI-Image-Saver.git"
+    }
+  ],
+  "files": [
+    {
+      "url": "https://huggingface.co/QuantStack/Wan2.2-T2V-A14B-GGUF/resolve/main/HighNoise/Wan2.2-T2V-A14B-HighNoise-Q8_0.gguf",
+      "target": "models/unet/Wan2.2-T2V-A14B-HighNoise-Q8_0.gguf"
+    },
+    {
+      "url": "https://huggingface.co/QuantStack/Wan2.2-T2V-A14B-GGUF/resolve/main/LowNoise/Wan2.2-T2V-A14B-LowNoise-Q8_0.gguf",
+      "target": "models/unet/Wan2.2-T2V-A14B-LowNoise-Q8_0.gguf"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+      "target": "models/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/vae/wan_2.1_vae.safetensors",
+      "target": "models/vae/wan_2.1_vae.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/CoffeeAndMisery/Instagirlv2.3/resolve/main/Instagirlv2.3_high.safetensors",
+      "target": "models/loras/Instagirlv2.3_high.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/CoffeeAndMisery/Instagirlv2.3/resolve/main/Insatgirlv2.3_low.safetensors",
+      "target": "models/loras/Insatgirlv2.3_low.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Instara/instamodel-1-lucy-wan-2.2/resolve/main/Instamodel_1.safetensors",
+      "target": "models/loras/Instamodel_1.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/ostaptyt/l3n0v0.safetensors/resolve/main/l3n0v0.safetensors",
+      "target": "models/loras/l3n0v0.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/joerose/Wan21_T2V_14B_lightx2v_cfg_step_distill_lora_rank32/resolve/main/Wan21_T2V_14B_lightx2v_cfg_step_distill_lora_rank32.safetensors",
+      "target": "models/loras/Wan21_T2V_14B_lightx2v_cfg_step_distill_lora_rank32.safetensors"
+    }
+  ]
+}

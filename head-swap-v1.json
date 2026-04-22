@@ -13,6 +13,14 @@
     {
       "url": "https://huggingface.co/avatary-ai/files/resolve/main/sam3.pt",
       "target": "models/sam3/sam3.pt"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/LilyStone/zImage/ostris-ai-toolkit/liliy-face-v1.safetensors",
+      "target": "models/loras/liliy-face-v1.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/megan-face-v1.safetensors?download=true",
+      "target": "models/loras/megan-face-v1.safetensors"
     }
   ]
 }

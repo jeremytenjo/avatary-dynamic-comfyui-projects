@@ -19,12 +19,8 @@
       "target": "models/vae/flux_vae.safetensors"
     },
     {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/an3ko-lora-body-aiorbust-v1.safetensors",
-      "target": "models/loras/an3ko-lora-body-aiorbust-v1.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/RealisticSnapshot-Zimage-Turbov5.safetensors?download=true",
-      "target": "models/loras/RealisticSnapshot-Zimage-Turbov5.safetensors"
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/m3gan-lora-v2.safetensors?download=true",
+      "target": "models/loras/m3gan-lora-v2.safetensors"
     }
   ]
 }

@@ -13,12 +13,8 @@
       "repo": "https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch.git"
     },
     {
-      "repo_dir": "TODO-ImageBatchPath",
-      "repo": "TODO_REPO_URL_FOR_ImageBatchPath"
-    },
-    {
-      "repo_dir": "TODO-AILab-MaskCombiner",
-      "repo": "TODO_REPO_URL_FOR_AILab_MaskCombiner"
+      "repo_dir": "ComfyUI-JoyCaption",
+      "repo": "https://github.com/1038lab/ComfyUI-JoyCaption.git"
     }
   ],
   "files": [

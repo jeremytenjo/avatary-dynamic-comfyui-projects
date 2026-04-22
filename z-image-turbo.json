@@ -3,6 +3,10 @@
     {
       "repo_dir": "ComfyUI-Inspire-Pack",
       "repo": "https://github.com/ltdrdata/ComfyUI-Inspire-Pack"
+    },
+    {
+      "repo_dir": "ComfyUI-JoyCaption",
+      "repo": "https://github.com/1038lab/ComfyUI-JoyCaption.git"
     }
   ],
   "files": [

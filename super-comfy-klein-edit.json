@@ -1,5 +1,4 @@
 {
-  "require_huggingface_token": true,
   "custom_nodes": [
     {
       "repo_dir": "ComfyUI-SuperNodes",

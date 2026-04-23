@@ -3,10 +3,6 @@
     {
       "repo_dir": "RES4LYF",
       "repo": "https://github.com/ClownsharkBatwing/RES4LYF.git"
-    },
-    {
-      "repo_dir": "ComfyUI-QwenVL",
-      "repo": "https://github.com/1038lab/ComfyUI-QwenVL.git"
     }
   ],
   "files": [

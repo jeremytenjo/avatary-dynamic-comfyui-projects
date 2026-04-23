@@ -121,5 +121,6 @@ Before committing a new/updated manifest:
 - when `import_projects` is present, added `custom_nodes.repo_dir` and `files.target` do not overlap imported manifests
 - all non-placeholder `repo` URLs are reachable
 - all non-placeholder `url` download links are correct
+  - For Hugging Face gated/private assets, `401/403` is acceptable if the URL is the intended official `resolve` link and filename/target match the workflow.
 - all `target` paths are intentional
 - filename includes a version

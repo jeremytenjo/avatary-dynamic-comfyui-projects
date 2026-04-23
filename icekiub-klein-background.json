@@ -50,10 +50,7 @@
       "url": "https://huggingface.co/lightx2v/Qwen-Image-Lightning/resolve/main/Qwen-Image-Lightning-8steps-V2.0-bf16.safetensors",
       "target": "models/loras/Qwen-Image-Lightning-8steps-V2.0-bf16.safetensors"
     },
-    {
-      "url": "TODO_URL_FOR_Flux.Fazze-step00000200.safetensors",
-      "target": "models/loras/Flux.Fazze-step00000200.safetensors"
-    },
+
     {
       "url": "https://huggingface.co/avatary-ai/files/resolve/main/face_yolov8m.pt",
       "target": "models/ultralytics/bbox/face_yolov8m.pt"

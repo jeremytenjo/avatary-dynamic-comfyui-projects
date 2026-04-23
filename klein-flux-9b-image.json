@@ -23,7 +23,7 @@
       "target": "models/vae/flux2-vae.safetensors"
     },
     {
-      "url": "TODO_URL_FOR_m3gan-lora-klein.safetensors",
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/m3gan-lora-klein.safetensors?download=true",
       "target": "models/loras/m3gan-lora-klein.safetensors"
     }
   ]

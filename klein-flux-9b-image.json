@@ -3,6 +3,10 @@
     {
       "repo_dir": "RES4LYF",
       "repo": "https://github.com/ClownsharkBatwing/RES4LYF.git"
+    },
+    {
+      "repo_dir": "comfyui_controlnet_aux",
+      "repo": "https://github.com/Fannovel16/comfyui_controlnet_aux.git"
     }
   ],
   "files": [

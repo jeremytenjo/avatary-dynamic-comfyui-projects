@@ -33,6 +33,10 @@
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/klein_slider_bust.safetensors?download=true",
       "target": "models/loras/klein_slider_bust.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/avatary-ai/files/resolve/main/klein_slider_bodyweight_50.safetensors",
+      "target": "models/loras/klein_slider_bodyweight_50.safetensors"
     }
   ]
 }

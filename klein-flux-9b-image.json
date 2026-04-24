@@ -7,10 +7,6 @@
     {
       "repo_dir": "comfyui_controlnet_aux",
       "repo": "https://github.com/Fannovel16/comfyui_controlnet_aux.git"
-    },
-    {
-      "repo_dir": "ComfyUI-QwenVL",
-      "repo": "https://github.com/1038lab/ComfyUI-QwenVL"
     }
   ],
   "files": [

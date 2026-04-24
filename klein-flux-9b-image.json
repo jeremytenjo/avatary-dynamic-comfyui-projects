@@ -21,6 +21,10 @@
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/m3gan-lora-klein.safetensors?download=true",
       "target": "models/loras/m3gan-lora-klein.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/klein_slider_bust.safetensors?download=true",
+      "target": "models/loras/klein_slider_bust.safetensors"
     }
   ]
 }

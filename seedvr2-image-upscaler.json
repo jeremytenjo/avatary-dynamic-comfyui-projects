@@ -23,10 +23,6 @@
   ],
   "files": [
     {
-      "url": "https://huggingface.co/numz/SeedVR2_comfyUI/resolve/main/seedvr2_ema_7b_fp16.safetensors",
-      "target": "models/SEEDVR2/seedvr2_ema_7b_fp16.safetensors"
-    },
-    {
       "url": "https://huggingface.co/numz/SeedVR2_comfyUI/resolve/main/ema_vae_fp16.safetensors",
       "target": "models/SEEDVR2/ema_vae_fp16.safetensors"
     }

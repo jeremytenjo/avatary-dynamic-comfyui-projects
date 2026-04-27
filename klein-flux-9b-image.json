@@ -7,6 +7,10 @@
     {
       "repo_dir": "comfyui_controlnet_aux",
       "repo": "https://github.com/Fannovel16/comfyui_controlnet_aux.git"
+    },
+    {
+      "repo_dir": "rgthree-comfy",
+      "repo": "https://github.com/rgthree/rgthree-comfy"
     }
   ],
   "files": [

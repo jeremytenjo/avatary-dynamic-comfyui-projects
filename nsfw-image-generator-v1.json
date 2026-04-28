@@ -55,6 +55,10 @@
       "target": "models/loras/VnC_beta.safetensors"
     },
     {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/sdxl-lora-waist.safetensors",
+      "target": "models/loras/sdxl-lora-waist.safetensors"
+    },
+    {
       "url": "https://huggingface.co/avatary-ai/files/resolve/main/4xNMKDSuperscale_4xNMKDSuperscale.pt",
       "target": "models/upscale_models/4xNMKDSuperscale_4xNMKDSuperscale.pt"
     },

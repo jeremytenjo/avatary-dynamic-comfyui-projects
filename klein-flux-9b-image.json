@@ -37,6 +37,10 @@
     {
       "url": "https://huggingface.co/avatary-ai/files/resolve/main/klein_slider_bodyweight_50.safetensors",
       "target": "models/loras/klein_slider_bodyweight_50.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/klein-lora-pawg.safetensors",
+      "target": "models/loras/klein-lora-pawg.safetensors"
     }
   ]
 }

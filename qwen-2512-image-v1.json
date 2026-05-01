@@ -1,0 +1,58 @@
+{
+  "custom_nodes": [
+    {
+      "repo_dir": "ComfyUI-KJNodes",
+      "repo": "https://github.com/kijai/ComfyUI-KJNodes.git"
+    },
+    {
+      "repo_dir": "rgthree-comfy",
+      "repo": "https://github.com/rgthree/rgthree-comfy.git"
+    },
+    {
+      "repo_dir": "RES4LYF",
+      "repo": "https://github.com/ClownsharkBatwing/RES4LYF.git"
+    },
+    {
+      "repo_dir": "TODO-comfyui-rvtools_v2",
+      "repo": "TODO_REPO_URL_FOR_Any_Multi-Switch_RvTools"
+    },
+    {
+      "repo_dir": "TODO-ComfyUI-Chibi-Nodes",
+      "repo": "TODO_REPO_URL_FOR_Textbox"
+    }
+  ],
+  "files": [
+    {
+      "url": "https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/diffusion_models/qwen_image_2512_fp8_e4m3fn_scaled_comfyui_4steps_v1.0.safetensors",
+      "target": "models/diffusion_models/qwen_image_2512_fp8_e4m3fn_scaled_comfyui_4steps_v1.0.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/HunyuanVideo_1.5_repackaged/resolve/main/split_files/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors",
+      "target": "models/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/vae/qwen_image_vae.safetensors",
+      "target": "models/vae/qwen_image_vae.safetensors"
+    },
+    {
+      "url": "TODO_URL_FOR_QWEN_%E9%BA%A6%E6%A9%98%E5%8D%83%E9%97%AE%E7%BE%8E%E4%BA%BA.safetensors",
+      "target": "models/loras/QWEN_%E9%BA%A6%E6%A9%98%E5%8D%83%E9%97%AE%E7%BE%8E%E4%BA%BA.safetensors"
+    },
+    {
+      "url": "TODO_URL_FOR_qwen-edit-skin.safetensors",
+      "target": "models/loras/qwen-edit-skin.safetensors"
+    },
+    {
+      "url": "TODO_URL_FOR_BLUEBAE_000001000.safetensors",
+      "target": "models/loras/BLUEBAE_000001000.safetensors"
+    },
+    {
+      "url": "TODO_URL_FOR_nicegirls_zimagebase.safetensors",
+      "target": "models/loras/nicegirls_zimagebase.safetensors"
+    },
+    {
+      "url": "TODO_URL_FOR_Amature realism Qwen.safetensors",
+      "target": "models/loras/Amature realism Qwen.safetensors"
+    }
+  ]
+}

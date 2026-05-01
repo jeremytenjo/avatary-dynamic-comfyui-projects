@@ -41,6 +41,10 @@
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/klein-lora-pawg.safetensors",
       "target": "models/loras/klein-lora-pawg.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/REAL_HDR.safetensors",
+      "target": "models/loras/REAL_HDR.safetensors"
     }
   ]
 }

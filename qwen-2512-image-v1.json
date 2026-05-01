@@ -13,12 +13,12 @@
       "repo": "https://github.com/ClownsharkBatwing/RES4LYF.git"
     },
     {
-      "repo_dir": "TODO-comfyui-rvtools_v2",
-      "repo": "TODO_REPO_URL_FOR_Any_Multi-Switch_RvTools"
+      "repo_dir": "ComfyUI-RvTools_v2",
+      "repo": "https://github.com/r-vage/ComfyUI-RvTools_v2.git"
     },
     {
-      "repo_dir": "TODO-ComfyUI-Chibi-Nodes",
-      "repo": "TODO_REPO_URL_FOR_Textbox"
+      "repo_dir": "ComfyUI-Chibi-Nodes",
+      "repo": "https://github.com/chibiace/ComfyUI-Chibi-Nodes.git"
     }
   ],
   "files": [
@@ -35,11 +35,11 @@
       "target": "models/vae/qwen_image_vae.safetensors"
     },
     {
-      "url": "TODO_URL_FOR_QWEN_%E9%BA%A6%E6%A9%98%E5%8D%83%E9%97%AE%E7%BE%8E%E4%BA%BA.safetensors",
+      "url": "https://huggingface.co/Lingyuzhou/Qwen_majic_beauty/resolve/main/QWEN_%E9%BA%A6%E6%A9%98%E5%8D%83%E9%97%AE%E7%BE%8E%E4%BA%BA.safetensors",
       "target": "models/loras/QWEN_%E9%BA%A6%E6%A9%98%E5%8D%83%E9%97%AE%E7%BE%8E%E4%BA%BA.safetensors"
     },
     {
-      "url": "TODO_URL_FOR_qwen-edit-skin.safetensors",
+      "url": "https://huggingface.co/tlennon-ie/qwen-edit-skin/resolve/main/qwen-edit-skin.safetensors",
       "target": "models/loras/qwen-edit-skin.safetensors"
     },
     {
@@ -47,7 +47,7 @@
       "target": "models/loras/BLUEBAE_000001000.safetensors"
     },
     {
-      "url": "TODO_URL_FOR_nicegirls_zimagebase.safetensors",
+      "url": "https://huggingface.co/Danrisi/nicegirls_zimage_base/resolve/main/nicegirls_zimagebase.safetensors",
       "target": "models/loras/nicegirls_zimagebase.safetensors"
     },
     {

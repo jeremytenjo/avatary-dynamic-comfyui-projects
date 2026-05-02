@@ -11,6 +11,10 @@
     {
       "repo_dir": "ComfyUI-Group-Bypasser",
       "repo": "https://github.com/jeremytenjo/ComfyUI-Group-Bypasser"
+    },
+    {
+      "repo_dir": "ComfyUI-QwenVL",
+      "repo": "https://github.com/1038lab/ComfyUI-QwenVL"
     }
   ],
   "files": [

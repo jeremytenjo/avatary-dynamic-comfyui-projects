@@ -15,6 +15,10 @@
     {
       "repo_dir": "ComfyUI-QwenVL",
       "repo": "https://github.com/1038lab/ComfyUI-QwenVL"
+    },
+    {
+      "repo_dir": "ComfyUI-Prompt-List",
+      "repo": "https://github.com/jeremytenjo/ComfyUI-Prompt-List.git"
     }
   ],
   "files": [

@@ -39,6 +39,10 @@
     {
       "repo_dir": "was-node-suite-comfyui",
       "repo": "https://github.com/ltdrdata/was-node-suite-comfyui"
+    },
+    {
+      "repo_dir": "ComfyUI-Prompt-List",
+      "repo": "https://github.com/jeremytenjo/ComfyUI-Prompt-List.git"
     }
   ],
   "files": [

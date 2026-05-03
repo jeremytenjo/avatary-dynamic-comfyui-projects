@@ -53,6 +53,10 @@
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/REAL_HDR.safetensors",
       "target": "models/loras/REAL_HDR.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/blaz-lora-body-v2.safetensors",
+      "target": "models/loras/blaz-lora-body-v2.safetensors"
     }
   ]
 }

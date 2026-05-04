@@ -29,10 +29,6 @@
       "repo": "https://github.com/ltdrdata/ComfyUI-Impact-Subpack"
     },
     {
-      "repo_dir": "ComfyUI-Inspire-Pack",
-      "repo": "https://github.com/ltdrdata/ComfyUI-Inspire-Pack"
-    },
-    {
       "repo_dir": "rgthree-comfy",
       "repo": "https://github.com/rgthree/rgthree-comfy"
     },

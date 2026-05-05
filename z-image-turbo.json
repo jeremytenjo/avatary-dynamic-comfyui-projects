@@ -25,6 +25,10 @@
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/m3gan-lora-v2.safetensors?download=true",
       "target": "models/loras/m3gan-lora-v2.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/blaz-lora-face-v1.safetensors",
+      "target": "models/loras/blaz-lora-face-v1.safetensors"
     }
   ]
 }

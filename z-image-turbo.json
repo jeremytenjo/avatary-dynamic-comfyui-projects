@@ -13,8 +13,8 @@
       "repo": "https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch.git"
     },
     {
-      "repo_dir": "ComfyUI-JoyCaption",
-      "repo": "https://github.com/1038lab/ComfyUI-JoyCaption.git"
+      "repo_dir": "ComfyUI-QwenVL",
+      "repo": "https://github.com/1038lab/ComfyUI-QwenVL"
     },
     {
       "repo_dir": "ComfyUI-Prompt-List",

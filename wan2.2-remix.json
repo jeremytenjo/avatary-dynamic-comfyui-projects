@@ -39,7 +39,7 @@
       "target": "models/loras/lightx2v_I2V_14B_480p_cfg_step_distill_rank128_bf16.safetensors"
     },
     {
-      "url": "TODO_URL_FOR_rife47.pth",
+      "url": "https://huggingface.co/wavespeed/misc/resolve/main/rife/rife47.pth",
       "target": "models/rife/rife47.pth"
     }
   ]

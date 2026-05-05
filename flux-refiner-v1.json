@@ -75,7 +75,7 @@
       "target": "models/loras/breast_slider_klein9b_v11_20260213_091528.safetensors"
     },
     {
-      "url": "TODO_URL_FOR_klein_slider_bodyweight_50.safetensors",
+      "url": "https://civitai.red/api/download/models/2608738",
       "target": "models/loras/klein_slider_bodyweight_50.safetensors"
     },
     {

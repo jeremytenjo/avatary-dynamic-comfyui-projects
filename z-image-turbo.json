@@ -23,16 +23,8 @@
       "target": "models/text_encoders/qwen_3_4b.safetensors"
     },
     {
-      "url": "https://huggingface.co/Comfy-Org/z_image_turbo/resolve/main/split_files/diffusion_models/z_image_turbo_bf16.safetensors",
-      "target": "models/diffusion_models/z_image_turbo_bf16.safetensors"
-    },
-    {
       "url": "https://huggingface.co/Comfy-Org/z_image_turbo/resolve/main/split_files/vae/ae.safetensors",
       "target": "models/vae/flux_vae.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/avatary-ai/files/resolve/main/Z-Image-AbliteratedV1.f16.safetensors",
-      "target": "models/text_encoders/Z-Image-AbliteratedV1.f16.safetensors"
     },
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/m3gan-lora-v2.safetensors",

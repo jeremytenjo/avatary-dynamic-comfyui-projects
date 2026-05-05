@@ -5,6 +5,14 @@
       "repo": "https://github.com/ltdrdata/ComfyUI-Inspire-Pack"
     },
     {
+      "repo_dir": "ComfyUI-RMBG",
+      "repo": "https://github.com/1038lab/ComfyUI-RMBG.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Inpaint-CropAndStitch",
+      "repo": "https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch.git"
+    },
+    {
       "repo_dir": "ComfyUI-JoyCaption",
       "repo": "https://github.com/1038lab/ComfyUI-JoyCaption.git"
     }
@@ -23,12 +31,24 @@
       "target": "models/vae/flux_vae.safetensors"
     },
     {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/m3gan-lora-v2.safetensors?download=true",
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/m3gan-lora-v2.safetensors",
       "target": "models/loras/m3gan-lora-v2.safetensors"
     },
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/blaz-lora-face-v1.safetensors",
       "target": "models/loras/blaz-lora-face-v1.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/avatary-ai/files/resolve/main/sam3.pt",
+      "target": "models/sam3/sam3.pt"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/LilyStone/zImage/ostris-ai-toolkit/liliy-face-v1.safetensors",
+      "target": "models/loras/liliy-face-v1.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/blaz-lora-body-v3.safetensors",
+      "target": "models/loras/blaz-lora-body-v3.safetensors"
     }
   ]
 }

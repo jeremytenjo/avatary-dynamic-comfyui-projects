@@ -1,0 +1,106 @@
+{
+  "custom_nodes": [
+    {
+      "repo_dir": "ComfyUI-WanVideoWrapper",
+      "repo": "https://github.com/kijai/ComfyUI-WanVideoWrapper.git"
+    },
+    {
+      "repo_dir": "ComfyUI-WanAnimatePreprocess",
+      "repo": "https://github.com/kijai/ComfyUI-WanAnimatePreprocess.git"
+    },
+    {
+      "repo_dir": "ComfyUI-segment-anything-2",
+      "repo": "https://github.com/kijai/ComfyUI-segment-anything-2.git"
+    },
+    {
+      "repo_dir": "ComfyUI-VideoHelperSuite",
+      "repo": "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Frame-Interpolation",
+      "repo": "https://github.com/Fannovel16/ComfyUI-Frame-Interpolation.git"
+    },
+    {
+      "repo_dir": "ComfyUI-KJNodes",
+      "repo": "https://github.com/kijai/ComfyUI-KJNodes.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Easy-Use",
+      "repo": "https://github.com/yolain/ComfyUI-Easy-Use.git"
+    },
+    {
+      "repo_dir": "rgthree-comfy",
+      "repo": "https://github.com/rgthree/rgthree-comfy.git"
+    },
+    {
+      "repo_dir": "ComfyMath",
+      "repo": "https://github.com/evanspearman/ComfyMath.git"
+    },
+    {
+      "repo_dir": "CRT-Nodes",
+      "repo": "https://github.com/plugcrypt/CRT-Nodes.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Custom-Scripts",
+      "repo": "https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git"
+    },
+    {
+      "repo_dir": "comfyui-propost",
+      "repo": "https://github.com/digitaljohn/comfyui-propost.git"
+    }
+  ],
+  "files": [
+    {
+      "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/diffusion_models/wan2.2_animate_14B_bf16.safetensors",
+      "target": "models/diffusion_models/wan2.2_animate_14B_bf16.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Wan-AI/Wan2.2-Animate-14B/resolve/main/process_checkpoint/det/yolov10m.onnx",
+      "target": "models/detection/yolov10m.onnx"
+    },
+    {
+      "url": "https://huggingface.co/JunkyByte/easy_ViTPose/resolve/main/onnx/wholebody/vitpose-l-wholebody.onnx",
+      "target": "models/detection/vitpose_h_wholebody_model.onnx"
+    },
+    {
+      "url": "https://huggingface.co/Kijai/sam2-safetensors/resolve/main/sam2.1_hiera_base_plus.safetensors",
+      "target": "models/sam2/sam2.1_hiera_base_plus.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Kokosha01/Wan2.2_StrangeNames/resolve/main/IronSight_V7.safetensors",
+      "target": "models/clip_vision/IronSight_V7.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Kokosha01/Wan2.2_StrangeNames/resolve/main/EchoVault_T9.safetensors",
+      "target": "models/text_encoders/EchoVault_T9.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Kokosha01/Wan2.2_StrangeNames/resolve/main/GlassRoot_D2.safetensors",
+      "target": "models/vae/GlassRoot_D2.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Kokosha01/Wan2.2_StrangeNames/resolve/main/SolarFlint_L2.safetensors",
+      "target": "models/loras/SolarFlint_L2.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Kokosha01/Wan2.2_StrangeNames/resolve/main/VelvetRush_Q4.safetensors",
+      "target": "models/loras/VelvetRush_Q4.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Kokosha01/Wan2.2_StrangeNames/resolve/main/FrostByte_K7.safetensors",
+      "target": "models/loras/FrostByte_K7.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Kokosha01/Wan2.2_StrangeNames/resolve/main/PhantomWeave_R5.safetensors",
+      "target": "models/loras/PhantomWeave_R5.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Kokosha01/Wan2.2_StrangeNames/resolve/main/NovaMind_X1.safetensors",
+      "target": "models/loras/NovaMind_X1.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/VMTamashii/rife49/resolve/main/rife49.pth",
+      "target": "models/rife/rife49.pth"
+    }
+  ]
+}

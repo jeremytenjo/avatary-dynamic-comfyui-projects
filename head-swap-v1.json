@@ -41,6 +41,10 @@
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/megan-face-v1.safetensors?download=true",
       "target": "models/loras/megan-face-v1.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/blaz-lora-face-v1.safetensors",
+      "target": "models/loras/blaz-lora-face-v1.safetensors"
     }
   ]
 }

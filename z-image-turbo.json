@@ -55,6 +55,10 @@
       "target": "models/loras/blaz-lora-body-v3.safetensors"
     },
     {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/selina-lora-head-v1.safetensors",
+      "target": "models/loras/selina-lora-head-v1.safetensors"
+    },
+    {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/LilyStone/zImage/ostris-ai-toolkit/l1l1-zturbo-v2-5000.safetensors?download=true",
       "target": "models/loras/l1l1-zturbo-v2-5000.safetensors"
     }

@@ -45,6 +45,10 @@
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/blaz-lora-face-v1.safetensors",
       "target": "models/loras/blaz-lora-face-v1.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/selina-lora-head-v1.safetensors",
+      "target": "models/loras/selina-lora-head-v1.safetensors"
     }
   ]
 }

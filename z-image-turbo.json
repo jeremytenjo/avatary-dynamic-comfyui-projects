@@ -19,6 +19,10 @@
     {
       "repo_dir": "ComfyUI-Prompts",
       "repo": "https://github.com/jeremytenjo/ComfyUI-Prompts.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Save-Image-Ultra",
+      "repo": "https://github.com/jeremytenjo/ComfyUI-Save-Image-Ultra.git"
     }
   ],
   "files": [

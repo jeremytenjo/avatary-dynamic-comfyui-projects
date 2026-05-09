@@ -1,5 +1,10 @@
 {
-  "custom_nodes": [],
+  "custom_nodes": [
+    {
+      "repo_dir": "ComfyUI-Save-Image-Ultra",
+      "repo": "https://github.com/jeremytenjo/ComfyUI-Save-Image-Ultra.git"
+    }
+  ],
   "files": [
     {
       "url": "https://huggingface.co/Comfy-Org/HunyuanVideo_1.5_repackaged/resolve/main/split_files/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors",

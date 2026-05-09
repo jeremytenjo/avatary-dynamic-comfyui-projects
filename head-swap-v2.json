@@ -19,6 +19,10 @@
     {
       "repo_dir": "ComfyUI-JoyCaption",
       "repo": "https://github.com/1038lab/ComfyUI-JoyCaption"
+    },
+    {
+      "repo_dir": "ComfyUI-Save-Image-Ultra",
+      "repo": "https://github.com/jeremytenjo/ComfyUI-Save-Image-Ultra.git"
     }
   ],
   "files": [

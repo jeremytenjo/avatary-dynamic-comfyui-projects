@@ -27,6 +27,10 @@
     {
       "repo_dir": "cg-use-everywhere",
       "repo": "https://github.com/chrisgoringe/cg-use-everywhere"
+    },
+    {
+      "repo_dir": "ComfyUI-Save-Image-Ultra",
+      "repo": "https://github.com/jeremytenjo/ComfyUI-Save-Image-Ultra.git"
     }
   ],
   "files": [

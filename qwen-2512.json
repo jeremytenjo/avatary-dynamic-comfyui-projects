@@ -19,6 +19,10 @@
     {
       "repo_dir": "ComfyUI-Chibi-Nodes",
       "repo": "https://github.com/chibiace/ComfyUI-Chibi-Nodes.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Save-Image-Ultra",
+      "repo": "https://github.com/jeremytenjo/ComfyUI-Save-Image-Ultra.git"
     }
   ],
   "files": [

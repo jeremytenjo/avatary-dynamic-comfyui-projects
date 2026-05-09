@@ -23,6 +23,10 @@
     {
       "repo_dir": "rgthree-comfy",
       "repo": "https://github.com/rgthree/rgthree-comfy.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Save-Image-Ultra",
+      "repo": "https://github.com/jeremytenjo/ComfyUI-Save-Image-Ultra.git"
     }
   ],
   "files": [

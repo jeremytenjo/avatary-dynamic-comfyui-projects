@@ -11,6 +11,10 @@
     {
       "repo_dir": "ComfyUI-Image-Saver",
       "repo": "https://github.com/alexopus/ComfyUI-Image-Saver.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Save-Image-Ultra",
+      "repo": "https://github.com/jeremytenjo/ComfyUI-Save-Image-Ultra.git"
     }
   ],
   "files": [

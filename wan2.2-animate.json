@@ -47,6 +47,10 @@
     {
       "repo_dir": "comfyui-propost",
       "repo": "https://github.com/digitaljohn/comfyui-propost.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Save-Image-Ultra",
+      "repo": "https://github.com/jeremytenjo/ComfyUI-Save-Image-Ultra.git"
     }
   ],
   "files": [

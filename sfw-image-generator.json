@@ -28,6 +28,10 @@
     {
       "repo_dir": "ComfyUI-QwenVL",
       "repo": "https://github.com/1038lab/ComfyUI-QwenVL"
+    },
+    {
+      "repo_dir": "ComfyUI-Save-Image-Ultra",
+      "repo": "https://github.com/jeremytenjo/ComfyUI-Save-Image-Ultra.git"
     }
   ],
   "files": [

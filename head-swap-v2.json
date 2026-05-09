@@ -1,0 +1,46 @@
+{
+  "custom_nodes": [
+    {
+      "repo_dir": "ComfyUI-Inspire-Pack",
+      "repo": "https://github.com/ltdrdata/ComfyUI-Inspire-Pack"
+    },
+    {
+      "repo_dir": "ComfyUI-RMBG",
+      "repo": "https://github.com/1038lab/ComfyUI-RMBG.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Inpaint-CropAndStitch",
+      "repo": "https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch.git"
+    },
+    {
+      "repo_dir": "ComfyUI-QwenVL",
+      "repo": "https://github.com/1038lab/ComfyUI-QwenVL"
+    },
+    {
+      "repo_dir": "ComfyUI-JoyCaption",
+      "repo": "https://github.com/1038lab/ComfyUI-JoyCaption"
+    }
+  ],
+  "files": [
+    {
+      "url": "https://huggingface.co/Comfy-Org/z_image_turbo/resolve/main/split_files/diffusion_models/z_image_turbo_bf16.safetensors",
+      "target": "models/diffusion_models/z_image_turbo_bf16.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/z_image_turbo/resolve/main/split_files/text_encoders/qwen_3_4b.safetensors",
+      "target": "models/text_encoders/qwen_3_4b.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/z_image_turbo/resolve/main/split_files/vae/ae.safetensors",
+      "target": "models/vae/flux_vae.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/avatary-ai/files/resolve/main/sam3.pt",
+      "target": "models/sam3/sam3.pt"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/selina-lora-head-v1.safetensors",
+      "target": "models/loras/selina-lora-head-v1.safetensors"
+    }
+  ]
+}

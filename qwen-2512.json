@@ -47,8 +47,8 @@
       "target": "models/loras/qwen-edit-skin.safetensors"
     },
     {
-      "url": "TODO_URL_FOR_BLUEBAE_000001000.safetensors",
-      "target": "models/loras/BLUEBAE_000001000.safetensors"
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/blaz-lora-qwen.safetensors?download=true",
+      "target": "models/loras/blaz-lora-qwen.safetensors"
     },
     {
       "url": "https://huggingface.co/Danrisi/nicegirls_zimage_base/resolve/main/nicegirls_zimagebase.safetensors",

@@ -55,7 +55,7 @@
       "target": "models/loras/nicegirls_zimagebase.safetensors"
     },
     {
-      "url": "TODO_URL_FOR_Amature realism Qwen.safetensors",
+      "url": "https://civitai.com/api/download/models/2565109",
       "target": "models/loras/Amature realism Qwen.safetensors"
     }
   ]

@@ -28,11 +28,11 @@
       "target": "models/controlnet/Qwen-Image-InstantX-ControlNet-Union.safetensors"
     },
     {
-      "url": "TODO_URL_FOR_lotus-depth-d-v1-1.safetensors",
+      "url": "https://huggingface.co/Comfy-Org/lotus/resolve/main/lotus-depth-d-v1-1.safetensors",
       "target": "models/diffusion_models/lotus-depth-d-v1-1.safetensors"
     },
     {
-      "url": "TODO_URL_FOR_vae-ft-mse-840000-ema-pruned.safetensors",
+      "url": "https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors",
       "target": "models/vae/vae-ft-mse-840000-ema-pruned.safetensors"
     },
     {

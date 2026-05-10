@@ -1,10 +1,6 @@
 {
   "custom_nodes": [
     {
-      "repo_dir": "ComfyUI-GGUF",
-      "repo": "https://github.com/city96/ComfyUI-GGUF.git"
-    },
-    {
       "repo_dir": "cg-use-everywhere",
       "repo": "https://github.com/chrisgoringe/cg-use-everywhere.git"
     },
@@ -35,12 +31,12 @@
   ],
   "files": [
     {
-      "url": "https://huggingface.co/city96/Qwen-Image-gguf/resolve/main/qwen-image-Q8_0.gguf",
-      "target": "models/unet/qwen-image-Q8_0.gguf"
+      "url": "https://huggingface.co/lightx2v/Qwen-Image-2512-Lightning/resolve/main/qwen_image_2512_fp8_e4m3fn_scaled_comfyui_4steps_v1.0.safetensors",
+      "target": "models/diffusion_models/qwen_image_2512_fp8_e4m3fn_scaled_comfyui_4steps_v1.0.safetensors"
     },
     {
-      "url": "https://huggingface.co/unsloth/Qwen2.5-VL-7B-Instruct-GGUF/resolve/main/Qwen2.5-VL-7B-Instruct-UD-Q8_K_XL.gguf",
-      "target": "models/clip/Qwen2.5-VL-7B-Instruct-UD-Q8_K_XL.gguf"
+      "url": "https://huggingface.co/Comfy-Org/HunyuanVideo_1.5_repackaged/resolve/main/split_files/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors",
+      "target": "models/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors"
     },
     {
       "url": "https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/vae/qwen_image_vae.safetensors",

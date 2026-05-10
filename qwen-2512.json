@@ -57,6 +57,14 @@
     {
       "url": "https://civitai.com/api/download/models/2565109",
       "target": "models/loras/Amature realism Qwen.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/dci05049/qwen/resolve/main/1girl-qwen_v3.safetensors",
+      "target": "models/loras/1girl-qwen_v3.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/dci05049/qwen/resolve/main/samsungcam_qwen.safetensors",
+      "target": "models/loras/samsungcam_qwen.safetensors"
     }
   ]
 }

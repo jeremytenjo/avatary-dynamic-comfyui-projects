@@ -1,0 +1,58 @@
+{
+  "custom_nodes": [
+    {
+      "repo_dir": "ComfyUI-GGUF",
+      "repo": "https://github.com/city96/ComfyUI-GGUF.git"
+    },
+    {
+      "repo_dir": "rgthree-comfy",
+      "repo": "https://github.com/rgthree/rgthree-comfy.git"
+    },
+    {
+      "repo_dir": "RES4LYF",
+      "repo": "https://github.com/ClownsharkBatwing/RES4LYF.git"
+    },
+    {
+      "repo_dir": "comfy-image-saver",
+      "repo": "https://github.com/giriss/comfy-image-saver.git"
+    }
+  ],
+  "files": [
+    {
+      "url": "https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/diffusion_models/qwen_image_bf16.safetensors",
+      "target": "models/diffusion_models/qwen_image_bf16.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/text_encoders/qwen_2.5_vl_7b.safetensors",
+      "target": "models/text_encoders/qwen_2.5_vl_7b.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/vae/qwen_image_vae.safetensors",
+      "target": "models/vae/qwen_image_vae.safetensors"
+    },
+    {
+      "url": "TODO_URL_FOR_qwen-image-Q8_0.gguf",
+      "target": "models/unet/qwen-image-Q8_0.gguf"
+    },
+    {
+      "url": "TODO_URL_FOR_Qwen2.5-VL-7B-Instruct-UD-Q8_K_XL.gguf",
+      "target": "models/text_encoders/Qwen2.5-VL-7B-Instruct-UD-Q8_K_XL.gguf"
+    },
+    {
+      "url": "TODO_URL_FOR_1girl-qwen_v3.safetensors",
+      "target": "models/loras/1girl-qwen_v3.safetensors"
+    },
+    {
+      "url": "TODO_URL_FOR_NiceGirls_qwen.safetensors",
+      "target": "models/loras/NiceGirls_qwen.safetensors"
+    },
+    {
+      "url": "TODO_URL_FOR_samsungcam_qwen.safetensors",
+      "target": "models/loras/samsungcam_qwen.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/blaz-lora-qwen_000001000.safetensors?download=true",
+      "target": "models/loras/blaz-lora-qwen_000001000.safetensors"
+    }
+  ]
+}

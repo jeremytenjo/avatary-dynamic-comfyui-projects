@@ -55,6 +55,10 @@
       "target": "models/loras/dmd2_sdxl_4step_lora.safetensors"
     },
     {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/blaz-lora-sdxl-epoch-10.safetensors",
+      "target": "models/loras/blaz-lora-sdxl-epoch-10.safetensors"
+    },
+    {
       "url": "https://huggingface.co/avatary-ai/files/resolve/main/4xNMKDSuperscale_4xNMKDSuperscale.pt",
       "target": "models/upscale_models/4xNMKDSuperscale_4xNMKDSuperscale.pt"
     },

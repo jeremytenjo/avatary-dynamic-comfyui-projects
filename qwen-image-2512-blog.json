@@ -1,0 +1,78 @@
+{
+  "custom_nodes": [
+    {
+      "repo_dir": "ComfyUI-GGUF",
+      "repo": "https://github.com/city96/ComfyUI-GGUF.git"
+    },
+    {
+      "repo_dir": "ComfyUI-SeedVR2_VideoUpscaler",
+      "repo": "https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Easy-Use",
+      "repo": "https://github.com/yolain/ComfyUI-Easy-Use.git"
+    },
+    {
+      "repo_dir": "rgthree-comfy",
+      "repo": "https://github.com/rgthree/rgthree-comfy.git"
+    },
+    {
+      "repo_dir": "ComfyUI-RvTools_v2",
+      "repo": "https://github.com/r-vage/ComfyUI-RvTools_v2.git"
+    },
+    {
+      "repo_dir": "RES4LYF",
+      "repo": "https://github.com/ClownsharkBatwing/RES4LYF.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Chibi-Nodes",
+      "repo": "https://github.com/chibiace/ComfyUI-Chibi-Nodes.git"
+    },
+    {
+      "repo_dir": "cg-use-everywhere",
+      "repo": "https://github.com/chrisgoringe/cg-use-everywhere.git"
+    },
+    {
+      "repo_dir": "TODO-aistudynow-qwenvl",
+      "repo": "TODO_REPO_URL_FOR_aistudynow_QwenVL"
+    }
+  ],
+  "files": [
+    {
+      "url": "https://huggingface.co/lightx2v/Qwen-Image-2512-Lightning/resolve/main/qwen_image_2512_fp8_e4m3fn_scaled_comfyui_4steps_v1.0.safetensors",
+      "target": "models/diffusion_models/Qwen 2512/qwen_image_2512_fp8_e4m3fn_scaled_comfyui.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/unsloth/Qwen-Image-2512-GGUF/resolve/main/qwen-image-2512-Q4_K_M.gguf",
+      "target": "models/unet/Qwen 2512/qwen-image-2512-Q4_K_M.gguf"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/HunyuanVideo_1.5_repackaged/resolve/main/split_files/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors",
+      "target": "models/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/vae/qwen_image_vae.safetensors",
+      "target": "models/vae/qwen_image_vae.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Lingyuzhou/Qwen_majic_beauty/resolve/main/QWEN_%E9%BA%A6%E6%A9%98%E5%8D%83%E9%97%AE%E7%BE%8E%E4%BA%BA.safetensors",
+      "target": "models/loras/qwen2512/QWEN_麦橘千问美人.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/tlennon-ie/qwen-edit-skin/resolve/main/qwen-edit-skin.safetensors",
+      "target": "models/loras/qwen2512/qwen-edit-skin.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/kudzueye/boreal-qwen-image/resolve/main/qwen-boreal-portraits-portraits-high-rank.safetensors",
+      "target": "models/loras/qwen2512/qwen-boreal-portraits-portraits-high-rank.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/cmeka/SeedVR2-GGUF/resolve/main/seedvr2_ema_3b-Q4_K_M.gguf",
+      "target": "models/SEEDVR2/seedvr2_ema_3b-Q4_K_M.gguf"
+    },
+    {
+      "url": "https://huggingface.co/numz/SeedVR2_comfyUI/resolve/main/ema_vae_fp16.safetensors",
+      "target": "models/SEEDVR2/ema_vae_fp16.safetensors"
+    }
+  ]
+}

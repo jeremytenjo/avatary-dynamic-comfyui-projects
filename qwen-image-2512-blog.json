@@ -56,15 +56,15 @@
     },
     {
       "url": "https://huggingface.co/Lingyuzhou/Qwen_majic_beauty/resolve/main/QWEN_%E9%BA%A6%E6%A9%98%E5%8D%83%E9%97%AE%E7%BE%8E%E4%BA%BA.safetensors",
-      "target": "models/loras/qwen2512/QWEN_麦橘千问美人.safetensors"
+      "target": "models/loras/QWEN_麦橘千问美人.safetensors"
     },
     {
       "url": "https://huggingface.co/tlennon-ie/qwen-edit-skin/resolve/main/qwen-edit-skin.safetensors",
-      "target": "models/loras/qwen2512/qwen-edit-skin.safetensors"
+      "target": "models/loras/qwen-edit-skin.safetensors"
     },
     {
       "url": "https://huggingface.co/kudzueye/boreal-qwen-image/resolve/main/qwen-boreal-portraits-portraits-high-rank.safetensors",
-      "target": "models/loras/qwen2512/qwen-boreal-portraits-portraits-high-rank.safetensors"
+      "target": "models/loras/qwen-boreal-portraits-portraits-high-rank.safetensors"
     },
     {
       "url": "https://huggingface.co/cmeka/SeedVR2-GGUF/resolve/main/seedvr2_ema_3b-Q4_K_M.gguf",

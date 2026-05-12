@@ -81,6 +81,10 @@
     {
       "url": "https://huggingface.co/Comfy-Org/lotus/resolve/main/lotus-depth-d-v1-1.safetensors",
       "target": "models/diffusion_models/lotus-depth-d-v1-1.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/Qwen-Image_SmartphoneSnapshotPhotoReality_v4_by-AI_Characters_TRIGGER%24amateur%20photo%24.safetensors",
+      "target": "models/loras/Qwen-Image_SmartphoneSnapshotPhotoReality_v4_by-AI_Characters_TRIGGER$amateur photo$.safetensors"
     }
   ]
 }

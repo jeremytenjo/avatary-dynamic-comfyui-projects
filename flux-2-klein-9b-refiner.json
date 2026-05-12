@@ -34,7 +34,6 @@
       "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-9b-fp8/resolve/main/flux-2-klein-9b-fp8.safetensors",
       "target": "models/diffusion_models/flux-2-klein-9b-fp8.safetensors"
     },
-
     {
       "url": "https://huggingface.co/Comfy-Org/flux2-klein-9B/resolve/main/split_files/text_encoders/qwen_3_8b_fp8mixed.safetensors",
       "target": "models/text_encoders/qwen_3_8b_fp8mixed.safetensors"
@@ -56,20 +55,8 @@
       "target": "models/loras/Samsung_fluxklein9b.safetensors"
     },
     {
-      "url": "TODO_URL_FOR_Head_9B.safetensors",
-      "target": "models/loras/Head_9B.safetensors"
-    },
-    {
-      "url": "TODO_URL_FOR_realistic.safetensors",
-      "target": "models/loras/realistic.safetensors"
-    },
-    {
       "url": "https://huggingface.co/Danrisi/Lenovo_FluxKlein9b_base/resolve/main/lenovo_flux_klein9b.safetensors",
       "target": "models/loras/lenovo_flux_klein9b.safetensors"
-    },
-    {
-      "url": "TODO_URL_FOR_detail_slider_klein_9b_20260123_065513.safetensors",
-      "target": "models/loras/detail_slider_klein_9b_20260123_065513.safetensors"
     }
   ]
 }

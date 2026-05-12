@@ -55,7 +55,7 @@
       "target": "models/loras/bfs_head_v1_flux-klein_9b_step3500_rank128.safetensors"
     },
     {
-      "url": "TODO_URL_FOR_Samsung_fluxklein9b.safetensors",
+      "url": "https://huggingface.co/Danrisi/Samsung_FluxKlein_9b/resolve/main/Samsung_fluxklein9b.safetensors",
       "target": "models/loras/Samsung_fluxklein9b.safetensors"
     },
     {
@@ -71,15 +71,15 @@
       "target": "models/loras/Flux.2 Klein 9B - Sling Bikini.safetensors"
     },
     {
-      "url": "TODO_URL_FOR_pawg_klein.safetensors",
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/klein-lora-pawg.safetensors",
       "target": "models/loras/pawg_klein.safetensors"
     },
     {
-      "url": "TODO_URL_FOR_lenovo_flux_klein9b.safetensors",
+      "url": "https://huggingface.co/Danrisi/Lenovo_FluxKlein9b_base/resolve/main/lenovo_flux_klein9b.safetensors",
       "target": "models/loras/lenovo_flux_klein9b.safetensors"
     },
     {
-      "url": "TODO_URL_FOR_breast_slider_klein9b_v11_20260213_091528.safetensors",
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/breast_slider_klein9b_v11_20260213_091528.safetensors",
       "target": "models/loras/breast_slider_klein9b_v11_20260213_091528.safetensors"
     },
     {
@@ -91,7 +91,7 @@
       "target": "models/loras/detail_slider_klein_9b_20260123_065513.safetensors"
     },
     {
-      "url": "TODO_URL_FOR_ass_slider_klein9b_v12_20260216_080807.safetensors",
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/ass_slider_klein9b_v12_20260216_080807.safetensors",
       "target": "models/loras/ass_slider_klein9b_v12_20260216_080807.safetensors"
     }
   ]

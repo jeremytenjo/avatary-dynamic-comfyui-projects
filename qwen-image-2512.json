@@ -65,6 +65,18 @@
     {
       "url": "https://huggingface.co/kudzueye/boreal-qwen-image/resolve/main/qwen-boreal-portraits-portraits-high-rank.safetensors",
       "target": "models/loras/qwen-boreal-portraits-portraits-high-rank.safetensors"
-    }
-  ]
+    },
+  {
+    "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/Qwen-Image-InstantX-ControlNet-Union.safetensors?download=true",
+    "target": "models/loras/Qwen-Image-InstantX-ControlNet-Union.safetensors"
+  },
+  {
+    "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/c33c3-lora-qwen-2512-v1-5000.safetensors?download=true",
+    "target": "models/loras/c33c3-lora-qwen-2512-v1-5000.safetensors"
+  },
+  {
+    "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/qwen-lora-lenovo-ultra-real.safetensors?download=true",
+    "target": "models/loras/qwen-lora-lenovo-ultra-real.safetensors"
+  }
+]
 }

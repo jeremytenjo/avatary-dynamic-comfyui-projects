@@ -39,6 +39,10 @@
     {
       "repo_dir": "ComfyUI-Prompts",
       "repo": "https://github.com/jeremytenjo/ComfyUI-Prompts.git"
+    },
+    {
+      "repo_dir": "ComfyUI-JoyCaption",
+      "repo": "https://github.com/1038lab/ComfyUI-JoyCaption"
     }
   ],
   "files": [

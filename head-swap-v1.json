@@ -43,7 +43,7 @@
       "target": "models/loras/liliy-face-v1.safetensors"
     },
     {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/megan-face-v1.safetensors?download=true",
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/megan-face-v1.safetensors",
       "target": "models/loras/megan-face-v1.safetensors"
     },
     {

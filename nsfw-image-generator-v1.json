@@ -59,7 +59,7 @@
       "target": "models/loras/blaz-lora-sdxl-epoch-10.safetensors"
     },
     {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/c33c3-lora-sdxl-epoch-10.safetensors?download=true",
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/c33c3-lora-sdxl-epoch-10.safetensors",
       "target": "models/loras/c33c3-lora-sdxl-epoch-10.safetensors"
     },
     {

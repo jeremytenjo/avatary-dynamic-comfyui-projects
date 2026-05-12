@@ -39,11 +39,11 @@
       "target": "models/vae/flux2-vae.safetensors"
     },
     {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/m3gan-lora-klein.safetensors?download=true",
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/m3gan-lora-klein.safetensors",
       "target": "models/loras/m3gan-lora-klein.safetensors"
     },
     {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/klein_slider_bust.safetensors?download=true",
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/klein_slider_bust.safetensors",
       "target": "models/loras/klein_slider_bust.safetensors"
     },
     {

@@ -55,6 +55,10 @@
       "target": "models/vae/qwen_image_vae.safetensors"
     },
     {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/Qwen-Image-InstantX-ControlNet-Union.safetensors?download=true",
+      "target": "models/controlnet/Qwen-Image-InstantX-ControlNet-Union.safetensors"
+    },
+    {
       "url": "https://huggingface.co/Lingyuzhou/Qwen_majic_beauty/resolve/main/QWEN_%E9%BA%A6%E6%A9%98%E5%8D%83%E9%97%AE%E7%BE%8E%E4%BA%BA.safetensors",
       "target": "models/loras/QWEN_麦橘千问美人.safetensors"
     },
@@ -66,17 +70,13 @@
       "url": "https://huggingface.co/kudzueye/boreal-qwen-image/resolve/main/qwen-boreal-portraits-portraits-high-rank.safetensors",
       "target": "models/loras/qwen-boreal-portraits-portraits-high-rank.safetensors"
     },
-  {
-    "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/Qwen-Image-InstantX-ControlNet-Union.safetensors?download=true",
-    "target": "models/loras/Qwen-Image-InstantX-ControlNet-Union.safetensors"
-  },
-  {
-    "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/c33c3-lora-qwen-2512-v1-5000.safetensors?download=true",
-    "target": "models/loras/c33c3-lora-qwen-2512-v1-5000.safetensors"
-  },
-  {
-    "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/qwen-lora-lenovo-ultra-real.safetensors?download=true",
-    "target": "models/loras/qwen-lora-lenovo-ultra-real.safetensors"
-  }
-]
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/c33c3-lora-qwen-2512-v1-5000.safetensors?download=true",
+      "target": "models/loras/c33c3-lora-qwen-2512-v1-5000.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/qwen-lora-lenovo-ultra-real.safetensors?download=true",
+      "target": "models/loras/qwen-lora-lenovo-ultra-real.safetensors"
+    }
+  ]
 }

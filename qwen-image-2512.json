@@ -73,10 +73,6 @@
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/c33c3-lora-qwen-2512-v1-5000.safetensors?download=true",
       "target": "models/loras/c33c3-lora-qwen-2512-v1-5000.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/qwen-lora-lenovo-ultra-real.safetensors?download=true",
-      "target": "models/loras/qwen-lora-lenovo-ultra-real.safetensors"
     }
   ]
 }

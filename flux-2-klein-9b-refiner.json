@@ -49,10 +49,6 @@
     {
       "url": "https://huggingface.co/Danrisi/Samsung_FluxKlein_9b/resolve/main/Samsung_fluxklein9b.safetensors",
       "target": "models/loras/Samsung_fluxklein9b.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/Danrisi/Lenovo_FluxKlein9b_base/resolve/main/lenovo_flux_klein9b.safetensors",
-      "target": "models/loras/lenovo_flux_klein9b.safetensors"
     }
   ]
 }

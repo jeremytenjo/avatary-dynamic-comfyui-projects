@@ -83,7 +83,7 @@
       "target": "models/loras/breast_slider_klein9b_v11_20260213_091528.safetensors"
     },
     {
-      "url": "TODO_URL_FOR_klein_slider_bodyweight_50.safetensors",
+      "url": "https://huggingface.co/avatary-ai/files/resolve/main/klein_slider_bodyweight_50.safetensors",
       "target": "models/loras/klein_slider_bodyweight_50.safetensors"
     },
     {

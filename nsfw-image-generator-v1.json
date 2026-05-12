@@ -13,6 +13,10 @@
       "repo": "https://github.com/chrisgoringe/cg-use-everywhere"
     },
     {
+      "repo_dir": "ComfyUI-Group-Bypasser",
+      "repo": "https://github.com/jeremytenjo/ComfyUI-Group-Bypasser"
+    },
+    {
       "repo_dir": "Comfyui-NAG-Aiorbust",
       "repo": "https://github.com/dci05049/Comfyui-NAG-Aiorbust"
     },

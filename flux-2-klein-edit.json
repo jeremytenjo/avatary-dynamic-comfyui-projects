@@ -1,0 +1,98 @@
+{
+  "custom_nodes": [
+    {
+      "repo_dir": "ComfyUI-GGUF",
+      "repo": "https://github.com/city96/ComfyUI-GGUF.git"
+    },
+    {
+      "repo_dir": "rgthree-comfy",
+      "repo": "https://github.com/rgthree/rgthree-comfy.git"
+    },
+    {
+      "repo_dir": "cg-use-everywhere",
+      "repo": "https://github.com/chrisgoringe/cg-use-everywhere.git"
+    },
+    {
+      "repo_dir": "ComfyUI_Comfyroll_CustomNodes",
+      "repo": "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes.git"
+    },
+    {
+      "repo_dir": "ComfyUi-Scale-Image-to-Total-Pixels-Advanced",
+      "repo": "https://github.com/BigStationW/ComfyUi-Scale-Image-to-Total-Pixels-Advanced.git"
+    },
+    {
+      "repo_dir": "Comfyui-AD-Image-Concatenation-Advanced",
+      "repo": "https://github.com/BigStationW/Comfyui-AD-Image-Concatenation-Advanced.git"
+    },
+    {
+      "repo_dir": "ComfyUi-TextEncodeEditAdvanced",
+      "repo": "https://github.com/BigStationW/ComfyUi-TextEncodeEditAdvanced.git"
+    }
+  ],
+  "files": [
+    {
+      "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-9b-fp8/resolve/main/flux-2-klein-9b-fp8.safetensors",
+      "target": "models/diffusion_models/flux-2-klein-9b-fp8.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/unsloth/FLUX.2-klein-9B-GGUF/resolve/main/flux-2-klein-9b-Q5_K_M.gguf",
+      "target": "models/unet/flux-2-klein-9b-Q5_K_M.gguf"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/flux2-klein-9B/resolve/main/split_files/text_encoders/qwen_3_8b_fp8mixed.safetensors",
+      "target": "models/text_encoders/qwen_3_8b_fp8mixed.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/main/split_files/vae/flux2-vae.safetensors",
+      "target": "models/vae/flux2-vae.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/lrzjason/Consistance_Edit_Lora/resolve/main/f2k_9B_lcs_consist_preview_20260328.safetensors",
+      "target": "models/loras/f2k_9B_lcs_consist_preview_20260328.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap/resolve/main/bfs_head_v1_flux-klein_9b_step3500_rank128.safetensors",
+      "target": "models/loras/bfs_head_v1_flux-klein_9b_step3500_rank128.safetensors"
+    },
+    {
+      "url": "TODO_URL_FOR_Samsung_fluxklein9b.safetensors",
+      "target": "models/loras/Samsung_fluxklein9b.safetensors"
+    },
+    {
+      "url": "TODO_URL_FOR_Head_9B.safetensors",
+      "target": "models/loras/Head_9B.safetensors"
+    },
+    {
+      "url": "TODO_URL_FOR_realistic.safetensors",
+      "target": "models/loras/realistic.safetensors"
+    },
+    {
+      "url": "TODO_URL_FOR_Flux.2_Klein_9B_-_Sling_Bikini.safetensors",
+      "target": "models/loras/Flux.2 Klein 9B - Sling Bikini.safetensors"
+    },
+    {
+      "url": "TODO_URL_FOR_pawg_klein.safetensors",
+      "target": "models/loras/pawg_klein.safetensors"
+    },
+    {
+      "url": "TODO_URL_FOR_lenovo_flux_klein9b.safetensors",
+      "target": "models/loras/lenovo_flux_klein9b.safetensors"
+    },
+    {
+      "url": "TODO_URL_FOR_breast_slider_klein9b_v11_20260213_091528.safetensors",
+      "target": "models/loras/breast_slider_klein9b_v11_20260213_091528.safetensors"
+    },
+    {
+      "url": "TODO_URL_FOR_klein_slider_bodyweight_50.safetensors",
+      "target": "models/loras/klein_slider_bodyweight_50.safetensors"
+    },
+    {
+      "url": "TODO_URL_FOR_detail_slider_klein_9b_20260123_065513.safetensors",
+      "target": "models/loras/detail_slider_klein_9b_20260123_065513.safetensors"
+    },
+    {
+      "url": "TODO_URL_FOR_ass_slider_klein9b_v12_20260216_080807.safetensors",
+      "target": "models/loras/ass_slider_klein9b_v12_20260216_080807.safetensors"
+    }
+  ]
+}

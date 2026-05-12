@@ -47,10 +47,6 @@
       "target": "models/loras/f2k_9B_lcs_consist_preview_20260328.safetensors"
     },
     {
-      "url": "https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap/resolve/main/bfs_head_v1_flux-klein_9b_step3500_rank128.safetensors",
-      "target": "models/loras/bfs_head_v1_flux-klein_9b_step3500_rank128.safetensors"
-    },
-    {
       "url": "https://huggingface.co/Danrisi/Samsung_FluxKlein_9b/resolve/main/Samsung_fluxklein9b.safetensors",
       "target": "models/loras/Samsung_fluxklein9b.safetensors"
     },

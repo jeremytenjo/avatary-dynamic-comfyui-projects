@@ -47,10 +47,6 @@
       "target": "models/diffusion_models/Qwen 2512/qwen_image_2512_fp8_e4m3fn_scaled_comfyui.safetensors"
     },
     {
-      "url": "https://huggingface.co/unsloth/Qwen-Image-2512-GGUF/resolve/main/qwen-image-2512-Q4_K_M.gguf",
-      "target": "models/unet/Qwen 2512/qwen-image-2512-Q4_K_M.gguf"
-    },
-    {
       "url": "https://huggingface.co/Comfy-Org/HunyuanVideo_1.5_repackaged/resolve/main/split_files/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors",
       "target": "models/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors"
     },
@@ -69,14 +65,6 @@
     {
       "url": "https://huggingface.co/kudzueye/boreal-qwen-image/resolve/main/qwen-boreal-portraits-portraits-high-rank.safetensors",
       "target": "models/loras/qwen-boreal-portraits-portraits-high-rank.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/cmeka/SeedVR2-GGUF/resolve/main/seedvr2_ema_3b-Q4_K_M.gguf",
-      "target": "models/SEEDVR2/seedvr2_ema_3b-Q4_K_M.gguf"
-    },
-    {
-      "url": "https://huggingface.co/numz/SeedVR2_comfyUI/resolve/main/ema_vae_fp16.safetensors",
-      "target": "models/SEEDVR2/ema_vae_fp16.safetensors"
     }
   ]
 }

@@ -79,6 +79,22 @@
       "target": "models/loras/c33c3-lora-qwen-2512-v1-5000.safetensors"
     },
     {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/lustify_endgame.safetensors",
+      "target": "models/checkpoints/lustify_endgame.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/avatary-ai/files/resolve/main/sam_vit_b_01ec64.pth",
+      "target": "models/sams/sam_vit_b_01ec64.pth"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/pussyV2.pt",
+      "target": "models/ultralytics/bbox/pussyV2.pt"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/Nipples.pt",
+      "target": "models/ultralytics/bbox/Nipples.pt"
+    },
+    {
       "url": "https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors",
       "target": "models/vae/vae-ft-mse-840000-ema-pruned.safetensors"
     },

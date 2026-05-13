@@ -27,6 +27,10 @@
     {
       "repo_dir": "ComfyUi-TextEncodeEditAdvanced",
       "repo": "https://github.com/BigStationW/ComfyUi-TextEncodeEditAdvanced.git"
+    },
+    {
+      "repo_dir": "ComfyUI-JoyCaption",
+      "repo": "https://github.com/1038lab/ComfyUI-JoyCaption"
     }
   ],
   "files": [

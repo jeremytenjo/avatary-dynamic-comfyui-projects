@@ -51,6 +51,14 @@
     {
       "repo_dir": "ComfyUI-Save-Image-Ultra",
       "repo": "https://github.com/jeremytenjo/ComfyUI-Save-Image-Ultra.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Impact-Pack",
+      "repo": "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
+    },
+    {
+      "repo_dir": "ComfyUI-Impact-Subpack",
+      "repo": "https://github.com/ltdrdata/ComfyUI-Impact-Subpack"
     }
   ],
   "files": [

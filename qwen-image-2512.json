@@ -89,6 +89,10 @@
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/Qwen-Image_SmartphoneSnapshotPhotoReality_v4_by-AI_Characters_TRIGGER%24amateur%20photo%24.safetensors",
       "target": "models/loras/Qwen-Image_SmartphoneSnapshotPhotoReality_v4_by-AI_Characters_TRIGGER$amateur photo$.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/Qwen_Snofs_1_3.safetensors",
+      "target": "models/loras/Qwen_Snofs_1_3.safetensors"
     }
   ]
 }

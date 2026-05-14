@@ -1,0 +1,42 @@
+{
+  "custom_nodes": [
+    {
+      "repo_dir": "ComfyUI-RMBG",
+      "repo": "https://github.com/1038lab/ComfyUI-RMBG.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Inpaint-CropAndStitch",
+      "repo": "https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch.git"
+    },
+    {
+      "repo_dir": "ComfyUI-QwenVL",
+      "repo": "https://github.com/1038lab/ComfyUI-QwenVL"
+    },
+    {
+      "repo_dir": "ComfyUI-JoyCaption",
+      "repo": "https://github.com/1038lab/ComfyUI-JoyCaption"
+    }
+  ],
+  "files": [
+    {
+      "url": "https://huggingface.co/lightx2v/Qwen-Image-2512-Lightning/resolve/main/qwen_image_2512_fp8_e4m3fn_scaled_comfyui_4steps_v1.0.safetensors",
+      "target": "models/diffusion_models/Qwen 2512/qwen_image_2512_fp8_e4m3fn_scaled_comfyui.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/HunyuanVideo_1.5_repackaged/resolve/main/split_files/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors",
+      "target": "models/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/vae/qwen_image_vae.safetensors",
+      "target": "models/vae/qwen_image_vae.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/c33c3-lora-qwen-2512-v1-5000.safetensors",
+      "target": "models/loras/c33c3-lora-qwen-2512-v1-5000.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/avatary-ai/files/resolve/main/sam3.pt",
+      "target": "models/sam3/sam3.pt"
+    }
+  ]
+}

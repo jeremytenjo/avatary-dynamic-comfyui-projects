@@ -71,6 +71,10 @@
       "target": "models/loras/leaked_nudes_style_v1_fixed.safetensors"
     },
     {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/ivy-lora-epoch-10.safetensors?download=true",
+      "target": "models/loras/ivy-lora-epoch-10.safetensors"
+    },
+    {
       "url": "https://huggingface.co/xinsir/controlnet-union-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors",
       "target": "models/controlnet/diffusion_pytorch_model.safetensors"
     },

@@ -1,0 +1,9 @@
+{
+  "custom_nodes": [
+    {
+      "repo_dir": "ComfyUI-Nano-Banana",
+      "repo": "https://github.com/jeremytenjo/ComfyUI-Nano-Banana.git"
+    }
+  ],
+  "files": []
+}

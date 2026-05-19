@@ -95,8 +95,8 @@
       "target": "models/loras/c33c3-lora-qwen-2512-v1-5000.safetensors"
     },
     {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/ivy-lora-body-v1-3000.safetensors?download=true",
-      "target": "models/loras/ivy-lora-body-v1-3000.safetensors"
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/ivy-lora-body-v1-5000.safetensors?download=true",
+      "target": "models/loras/ivy-lora-body-v1-5000.safetensors"
     },
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/lustify_endgame.safetensors",

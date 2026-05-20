@@ -1,5 +1,10 @@
 {
-  "custom_nodes": [],
+  "custom_nodes": [
+    {
+      "repo_dir": "ComfyUI-Prompts",
+      "repo": "https://github.com/jeremytenjo/ComfyUI-Prompts.git"
+    }
+  ],
   "files": [
     {
       "url": "https://huggingface.co/Comfy-Org/Qwen-Image-Edit_ComfyUI/resolve/main/split_files/diffusion_models/qwen_image_edit_2511_bf16.safetensors",

@@ -1,0 +1,70 @@
+{
+  "custom_nodes": [
+    {
+      "repo_dir": "ComfyUI-GGUF",
+      "repo": "https://github.com/city96/ComfyUI-GGUF.git"
+    },
+    {
+      "repo_dir": "ComfyUI-KJNodes",
+      "repo": "https://github.com/kijai/ComfyUI-KJNodes.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Easy-Use",
+      "repo": "https://github.com/yolain/ComfyUI-Easy-Use.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Frame-Interpolation",
+      "repo": "https://github.com/Fannovel16/ComfyUI-Frame-Interpolation.git"
+    },
+    {
+      "repo_dir": "ComfyUI-VideoHelperSuite",
+      "repo": "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite.git"
+    },
+    {
+      "repo_dir": "rgthree-comfy",
+      "repo": "https://github.com/rgthree/rgthree-comfy.git"
+    },
+    {
+      "repo_dir": "comfy_mtb",
+      "repo": "https://github.com/melMass/comfy_mtb.git"
+    },
+    {
+      "repo_dir": "ComfyUI-mxToolkit",
+      "repo": "https://github.com/Smirnov75/ComfyUI-mxToolkit.git"
+    }
+  ],
+  "files": [
+    {
+      "url": "https://huggingface.co/Isi99999/Wan2.2BasedModels/resolve/main/wan2.2_i2v_high_noise_14B_Q8_0.gguf",
+      "target": "models/unet/wan2.2_i2v_high_noise_14B_Q8_0.gguf"
+    },
+    {
+      "url": "https://huggingface.co/Isi99999/Wan2.2BasedModels/resolve/main/wan2.2_i2v_low_noise_14B_Q8_0.gguf",
+      "target": "models/unet/wan2.2_i2v_low_noise_14B_Q8_0.gguf"
+    },
+    {
+      "url": "https://huggingface.co/Babaladen/SmoothMIX/resolve/main/smoothMixWan2214BI2V_i2vV20High.safetensors",
+      "target": "models/diffusion_models/SmoothMix_High.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Babaladen/SmoothMIX/resolve/main/smoothMixWan2214BI2V_i2vV20Low.safetensors",
+      "target": "models/diffusion_models/SmoothMix_Low.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+      "target": "models/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/vae/wan_2.1_vae.safetensors",
+      "target": "models/vae/wan_2.1_vae.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/calcuis/wan-gguf/resolve/f52f5a1f0ba441d50277fb7cdd7c1b36611837f9/clip_vision_h.safetensors",
+      "target": "models/clip_vision/clip_vision_h.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/VMTamashii/rife49/resolve/main/rife49.pth",
+      "target": "models/rife/rife49.pth"
+    }
+  ]
+}

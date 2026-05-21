@@ -9,20 +9,12 @@
       "repo": "https://github.com/Fannovel16/comfyui_controlnet_aux.git"
     },
     {
-      "repo_dir": "ComfyUI-Group-Bypasser",
-      "repo": "https://github.com/jeremytenjo/ComfyUI-Group-Bypasser"
-    },
-    {
       "repo_dir": "ComfyUI-QwenVL",
       "repo": "https://github.com/1038lab/ComfyUI-QwenVL"
     },
     {
-      "repo_dir": "ComfyUI-Prompts",
-      "repo": "https://github.com/jeremytenjo/ComfyUI-Prompts.git"
-    },
-    {
-      "repo_dir": "ComfyUI-Save-Image-Ultra",
-      "repo": "https://github.com/jeremytenjo/ComfyUI-Save-Image-Ultra.git"
+      "repo_dir": "ComfyUI-Avatary",
+      "repo": "https://github.com/jeremytenjo/ComfyUI-Avatary.git"
     }
   ],
   "files": [

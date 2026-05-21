@@ -6,10 +6,6 @@
   ],
   "custom_nodes": [
     {
-      "repo_dir": "simple_batch_prompt",
-      "repo": "https://github.com/jeremytenjo/simple_batch_prompt.git"
-    },
-    {
       "repo_dir": "ComfyUI-GGUF",
       "repo": "https://github.com/city96/ComfyUI-GGUF.git"
     },
@@ -66,8 +62,8 @@
       "repo": "https://github.com/ltdrdata/was-node-suite-comfyui"
     },
     {
-      "repo_dir": "ComfyUI-Save-Image-Ultra",
-      "repo": "https://github.com/jeremytenjo/ComfyUI-Save-Image-Ultra.git"
+      "repo_dir": "ComfyUI-Avatary",
+      "repo": "https://github.com/jeremytenjo/ComfyUI-Avatary.git"
     }
   ],
   "files": [

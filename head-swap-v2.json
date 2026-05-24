@@ -45,6 +45,14 @@
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/selina-lora-head-v1.safetensors",
       "target": "models/loras/selina-lora-head-v1.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/isab3lla-lora-head-v5.safetensors?download=true",
+      "target": "models/loras/isab3lla-lora-head-v5.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/isab3lla-lora-head-v4.safetensors?download=true",
+      "target": "models/loras/isab3lla-lora-head-v4.safetensors"
     }
   ]
 }

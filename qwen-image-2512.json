@@ -99,23 +99,23 @@
       "target": "models/loras/ivy-lora-body-v1-5000.safetensors"
     },
     {
-      "url": "ttps://huggingface.co/jeremyhola/LORAs/resolve/main/isab3lla-lora-body-v1_000000750.safetensors",
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/isab3lla-lora-body-v1_000000750.safetensors",
       "target": "models/loras/isab3lla-lora-body-v1_000000750.safetensors"
     },
     {
-      "url": "ttps://huggingface.co/jeremyhola/LORAs/resolve/main/isab3lla-lora-body-v1_000003750.safetensors",
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/isab3lla-lora-body-v1_000003750.safetensors",
       "target": "models/loras/isab3lla-lora-body-v1_000003750.safetensors"
     },
     {
-      "url": "ttps://huggingface.co/jeremyhola/LORAs/resolve/main/isab3lla-lora-body-v1_000004000.safetensors",
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/isab3lla-lora-body-v1_000004000.safetensors",
       "target": "models/loras/isab3lla-lora-body-v1_000004000.safetensors"
     },
     {
-      "url": "ttps://huggingface.co/jeremyhola/LORAs/resolve/main/isab3lla-lora-body-v1_000004750.safetensors",
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/isab3lla-lora-body-v1_000004750.safetensors",
       "target": "models/loras/isab3lla-lora-body-v1_000004750.safetensors"
     },
     {
-      "url": "ttps://huggingface.co/jeremyhola/LORAs/resolve/main/isab3lla-lora-body-v1.safetensors",
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/isab3lla-lora-body-v1.safetensors",
       "target": "models/loras/isab3lla-lora-body-v1.safetensors"
     },
     {

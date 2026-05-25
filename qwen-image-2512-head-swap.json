@@ -7,14 +7,6 @@
     {
       "repo_dir": "ComfyUI-Inpaint-CropAndStitch",
       "repo": "https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch.git"
-    },
-    {
-      "repo_dir": "ComfyUI-QwenVL",
-      "repo": "https://github.com/1038lab/ComfyUI-QwenVL"
-    },
-    {
-      "repo_dir": "ComfyUI-JoyCaption",
-      "repo": "https://github.com/1038lab/ComfyUI-JoyCaption"
     }
   ],
   "files": [
@@ -33,6 +25,18 @@
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/c33c3-lora-qwen-2512-v1-5000.safetensors",
       "target": "models/loras/c33c3-lora-qwen-2512-v1-5000.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Lingyuzhou/Qwen_majic_beauty/resolve/main/QWEN_%E9%BA%A6%E6%A9%98%E5%8D%83%E9%97%AE%E7%BE%8E%E4%BA%BA.safetensors",
+      "target": "models/loras/QWEN_麦橘千问美人.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/tlennon-ie/qwen-edit-skin/resolve/main/qwen-edit-skin.safetensors",
+      "target": "models/loras/qwen-edit-skin.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/Qwen-Image_SmartphoneSnapshotPhotoReality_v4_by-AI_Characters_TRIGGER%24amateur%20photo%24.safetensors",
+      "target": "models/loras/Qwen-Image_SmartphoneSnapshotPhotoReality_v4_by-AI_Characters_TRIGGER$amateur photo$.safetensors"
     },
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/ivy-lora-body-v1-3000.safetensors?download=true",

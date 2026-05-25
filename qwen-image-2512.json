@@ -112,8 +112,8 @@
       "target": "models/loras/isab3lla-lora-body-v1_000000750.safetensors"
     },
     {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/isab3lla-lora-body-v1_000003750.safetensors",
-      "target": "models/loras/isab3lla-lora-body-v1_000003750.safetensors"
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/isab3lla-lora-body-v1_000003500.safetensors",
+      "target": "models/loras/isab3lla-lora-body-v1_000003500.safetensors"
     },
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/isab3lla-lora-body-v1_000004000.safetensors",

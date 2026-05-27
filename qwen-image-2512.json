@@ -59,6 +59,10 @@
     {
       "repo_dir": "ComfyUI-Avatary",
       "repo": "https://github.com/jeremytenjo/ComfyUI-Avatary.git"
+    },
+    {
+      "repo_dir": "comfyui_controlnet_aux",
+      "repo": "https://github.com/Fannovel16/comfyui_controlnet_aux.git"
     }
   ],
   "files": [
@@ -69,6 +73,10 @@
     {
       "url": "https://huggingface.co/Comfy-Org/HunyuanVideo_1.5_repackaged/resolve/main/split_files/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors",
       "target": "models/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/gemma-4/resolve/bd921e1bc843b4d4eb911695a9f0e9a3c83fce19/text_encoders/gemma4_e4b_it_fp8_scaled.safetensors",
+      "target": "models/text_encoders/gemma4_e4b_it_fp8_scaled.safetensors"
     },
     {
       "url": "https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/vae/qwen_image_vae.safetensors",

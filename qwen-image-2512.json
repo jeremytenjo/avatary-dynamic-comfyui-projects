@@ -63,6 +63,10 @@
     {
       "repo_dir": "comfyui_controlnet_aux",
       "repo": "https://github.com/Fannovel16/comfyui_controlnet_aux.git"
+    },
+    {
+      "repo_dir": "ComfyUI-CacheDiT",
+      "repo": "https://github.com/Jasonzzt/ComfyUI-CacheDiT.git"
     }
   ],
   "files": [

@@ -53,6 +53,10 @@
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/isab3lla-lora-head-v4.safetensors?download=true",
       "target": "models/loras/isab3lla-lora-head-v4.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/xmarimixo-lora-head-v1.safetensors?download=true",
+      "target": "models/loras/xmarimixo-lora-head-v1.safetensors"
     }
   ]
 }

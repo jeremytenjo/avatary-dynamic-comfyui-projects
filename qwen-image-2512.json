@@ -1,4 +1,9 @@
 {
+  "import_projects": [
+    {
+      "project_url": "https://github.com/jeremytenjo/avatary-dynamic-comfyui-projects/blob/main/flux-2-klein-9b-refiner.json"
+    }
+  ],
   "hooks": {
     "on_install_complete": {
       "commands": [
@@ -9,20 +14,12 @@
   },
   "custom_nodes": [
     {
-      "repo_dir": "ComfyUI-GGUF",
-      "repo": "https://github.com/city96/ComfyUI-GGUF.git"
-    },
-    {
       "repo_dir": "ComfyUI-SeedVR2_VideoUpscaler",
       "repo": "https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler.git"
     },
     {
       "repo_dir": "ComfyUI-Easy-Use",
       "repo": "https://github.com/yolain/ComfyUI-Easy-Use.git"
-    },
-    {
-      "repo_dir": "rgthree-comfy",
-      "repo": "https://github.com/rgthree/rgthree-comfy.git"
     },
     {
       "repo_dir": "ComfyUI-RvTools_v2",
@@ -37,16 +34,8 @@
       "repo": "https://github.com/chibiace/ComfyUI-Chibi-Nodes.git"
     },
     {
-      "repo_dir": "cg-use-everywhere",
-      "repo": "https://github.com/chrisgoringe/cg-use-everywhere.git"
-    },
-    {
       "repo_dir": "ComfyUI-QwenVL",
       "repo": "https://github.com/1038lab/ComfyUI-QwenVL"
-    },
-    {
-      "repo_dir": "ComfyUI-JoyCaption",
-      "repo": "https://github.com/1038lab/ComfyUI-JoyCaption"
     },
     {
       "repo_dir": "ComfyUI-Impact-Pack",

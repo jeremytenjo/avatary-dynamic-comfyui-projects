@@ -127,6 +127,34 @@
       "target": "models/loras/isab3lla-lora-body-v1.safetensors"
     },
     {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/xmiramixo-lora-v1.safetensors?download=true",
+      "target": "models/loras/xmiramixo-lora-v1.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/xmiramixo-lora-v1_000000250.safetensors?download=true",
+      "target": "models/loras/xmiramixo-lora-v1_000000250.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/xmiramixo-lora-v1_000001500.safetensors?download=true",
+      "target": "models/loras/xmiramixo-lora-v1_000001500.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/xmiramixo-lora-v1_000001750.safetensors?download=true",
+      "target": "models/loras/xmiramixo-lora-v1_000001750.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/xmiramixo-lora-v1_000002250.safetensors?download=true",
+      "target": "models/loras/xmiramixo-lora-v1_000002250.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/xmiramixo-lora-v1_000003250.safetensors?download=true",
+      "target": "models/loras/xmiramixo-lora-v1_000003250.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/xmiramixo-lora-v1_000004750.safetensors?download=true",
+      "target": "models/loras/xmiramixo-lora-v1_000004750.safetensors"
+    },
+    {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/lustify_endgame.safetensors",
       "target": "models/checkpoints/lustify_endgame.safetensors"
     },

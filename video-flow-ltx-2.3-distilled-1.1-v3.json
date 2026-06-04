@@ -67,10 +67,6 @@
       "target": "models/checkpoints/ltx-2.3-22b-dev-fp8.safetensors"
     },
     {
-      "url": "TODO_URL_FOR_ltx-av-step-1751000_vocoder_24K.safetensors",
-      "target": "models/checkpoints/ltx-av-step-1751000_vocoder_24K.safetensors"
-    },
-    {
       "url": "https://huggingface.co/Kijai/LTX2.3_comfy/resolve/main/diffusion_models/ltx-2.3-22b-distilled-1.1_transformer_only_mxfp8_block32.safetensors",
       "target": "models/diffusion_models/ltx-2.3-22b-distilled-1.1_transformer_only_mxfp8_block32.safetensors"
     },
@@ -131,11 +127,11 @@
       "target": "models/loras/LTX2.3_Crisp_Enhance.safetensors"
     },
     {
-      "url": "TODO_URL_FOR_LTX23-GalaxyAce.safetensors",
+      "url": "https://civitai.red/api/download/models/2808759",
       "target": "models/loras/LTX23-GalaxyAce.safetensors"
     },
     {
-      "url": "TODO_URL_FOR_Luxe_Sensual.safetensors",
+      "url": "https://huggingface.co/vrgamedevgirl84/LTX_2.3_Luxe_Sensual_Style_LoRa/resolve/main/Luxe_Sensual.safetensors",
       "target": "models/loras/Luxe_Sensual.safetensors"
     },
     {

@@ -47,6 +47,10 @@
       "target": "models/loras/selina-lora-head-v1.safetensors"
     },
     {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/LilyStone/zImage/ostris-ai-toolkit/liliy-face-v1.safetensors?download=true",
+      "target": "models/loras/liliy-face-v1.safetensors"
+    },
+    {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/isab3lla-lora-head-v5.safetensors?download=true",
       "target": "models/loras/isab3lla-lora-head-v5.safetensors"
     },

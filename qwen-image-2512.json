@@ -108,6 +108,10 @@
       "target": "models/loras/blaz-lora-qwen.safetensors"
     },
     {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/lily-lora-qwen-v1.safetensors?download=true",
+      "target": "models/loras/lily-lora-qwen-v1.safetensors"
+    },
+    {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/ivy-lora-body-v1-5000.safetensors",
       "target": "models/loras/ivy-lora-body-v1-5000.safetensors"
     },

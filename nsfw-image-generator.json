@@ -71,6 +71,10 @@
       "target": "models/loras/lily-lora-sdxl-epoch-10.safetensors"
     },
     {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/xmiramixo-lora-sdxl-epoch-10-v1.safetensors?download=true",
+      "target": "models/loras/xmiramixo-lora-sdxl-epoch-10-v1.safetensors"
+    },
+    {
       "url": "https://huggingface.co/xinsir/controlnet-union-sdxl-1.0/resolve/main/diffusion_pytorch_model.safetensors",
       "target": "models/controlnet/diffusion_pytorch_model.safetensors"
     },

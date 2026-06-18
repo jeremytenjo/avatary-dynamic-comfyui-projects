@@ -1,0 +1,15 @@
+{
+  "import_projects": [
+    {
+      "project_url": "https://github.com/jeremytenjo/avatary-dynamic-comfyui-projects/blob/main/nsfw-image-generator.json"
+    },
+    {
+      "project_url": "https://github.com/jeremytenjo/avatary-dynamic-comfyui-projects/blob/main/qwen-image-2512-head-swap.json"
+    },
+    {
+      "project_url": "https://github.com/jeremytenjo/avatary-dynamic-comfyui-projects/blob/main/seedvr2-image-upscaler.json"
+    }
+  ],
+  "custom_nodes": [],
+  "files": []
+}

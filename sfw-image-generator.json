@@ -44,7 +44,7 @@
       "target": "models/loras/dmd2_sdxl_4step_lora.safetensors"
     },
     {
-      "url": "https://huggingface.co/avatary-ai/files/resolve/main/4xNMKDSuperscale_4xNMKDSuperscale.pt",
+      "url": "https://huggingface.co/avatary-ai/files/resolve/main/4xNMKDSuperscale_4xNMKDSuperscale.pt?download=true",
       "target": "models/upscale_models/4xNMKDSuperscale_4xNMKDSuperscale.pt"
     },
     {

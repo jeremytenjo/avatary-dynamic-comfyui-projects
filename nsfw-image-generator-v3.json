@@ -1,0 +1,20 @@
+{
+  "import_projects": [
+    {
+      "project_url": "https://github.com/jeremytenjo/avatary-dynamic-comfyui-projects/blob/main/nsfw-image-generator.json"
+    },
+    {
+      "project_url": "https://github.com/jeremytenjo/avatary-dynamic-comfyui-projects/blob/main/flux-2-klein-9b-refiner.json"
+    },
+    {
+      "project_url": "https://github.com/jeremytenjo/avatary-dynamic-comfyui-projects/blob/main/qwen-image-2512-head-swap.json"
+    }
+  ],
+  "custom_nodes": [],
+  "files": [
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/xmarimixo-lora-head-v1.safetensors?download=true",
+      "target": "models/loras/xmarimixo-lora-head-v1.safetensors"
+    }
+  ]
+}

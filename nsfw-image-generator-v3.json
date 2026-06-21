@@ -19,6 +19,10 @@
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/xmiramixo-lora-v1_000002250.safetensors?download=true",
       "target": "models/loras/xmiramixo-lora-v1_000002250.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/BigloveTitfuck.safetensors",
+      "target": "models/loras/BigloveTitfuck.safetensors"
     }
   ]
 }

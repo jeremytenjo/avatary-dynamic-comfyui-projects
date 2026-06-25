@@ -1,10 +1,6 @@
 {
   "custom_nodes": [
     {
-      "repo_dir": "ComfyUI-SeedVR2_VideoUpscaler",
-      "repo": "https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler.git"
-    },
-    {
       "repo_dir": "rgthree-comfy",
       "repo": "https://github.com/rgthree/rgthree-comfy.git"
     }

@@ -11,10 +11,6 @@
       "target": "models/checkpoints/redcraftKREA2RedMix_krea2Edition.safetensors"
     },
     {
-      "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/diffusion_models/krea2_turbo_bf16.safetensors?download=true",
-      "target": "models/diffusion_models/krea2_turbo_bf16.safetensors"
-    },
-    {
       "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/text_encoders/qwen3vl_4b_bf16.safetensors",
       "target": "models/text_encoders/qwen3vl_4b_bf16.safetensors"
     },

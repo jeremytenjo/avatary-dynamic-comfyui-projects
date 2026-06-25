@@ -1,4 +1,9 @@
 {
+  "import_projects": [
+    {
+      "project_url": "https://github.com/jeremytenjo/avatary-dynamic-comfyui-projects/blob/main/flux-2-klein-9b-refiner.json"
+    }
+  ],
   "custom_nodes": [
     {
       "repo_dir": "rgthree-comfy",
@@ -9,6 +14,10 @@
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/redcraftKREA2RedMix_krea2Edition.safetensors?download=true",
       "target": "models/checkpoints/redcraftKREA2RedMix_krea2Edition.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/krea/Krea-2-Turbo/resolve/main/turbo.safetensors?download=true",
+      "target": "models/diffusion_models/turbo.safetensors"
     },
     {
       "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/text_encoders/qwen3vl_4b_bf16.safetensors",

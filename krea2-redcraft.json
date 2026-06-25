@@ -1,0 +1,30 @@
+{
+  "custom_nodes": [
+    {
+      "repo_dir": "ComfyUI-SeedVR2_VideoUpscaler",
+      "repo": "https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler.git"
+    },
+    {
+      "repo_dir": "rgthree-comfy",
+      "repo": "https://github.com/rgthree/rgthree-comfy.git"
+    }
+  ],
+  "files": [
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/redcraftKREA2RedMix_krea2Edition.safetensors?download=true",
+      "target": "models/checkpoints/redcraftKREA2RedMix_krea2Edition.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/text_encoders/qwen3vl_4b_bf16.safetensors",
+      "target": "models/text_encoders/qwen3vl_4b_bf16.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/vae/qwen_image_vae.safetensors",
+      "target": "models/vae/qwen_image_vae.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/xmiramixo-lora-krea2-v1_000002250.safetensors?download=true",
+      "target": "models/loras/xmiramixo-lora-krea2-v1_000002250.safetensors"
+    }
+  ]
+}

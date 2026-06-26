@@ -25,6 +25,10 @@
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/realism_engine_krea2_v1.safetensors?download=true",
       "target": "models/loras/realism_engine_krea2_v1.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/breast_size_krea2_loraholic.safetensors?download=true",
+      "target": "models/loras/breast_size_krea2_loraholic.safetensors"
     }
   ]
 }

@@ -1,9 +1,4 @@
 {
-  "import_projects": [
-    {
-      "project_url": "https://github.com/jeremytenjo/avatary-dynamic-comfyui-projects/blob/main/flux-2-klein-9b-refiner.json"
-    }
-  ],
   "custom_nodes": [
     {
       "repo_dir": "ComfyUI-Avatary",

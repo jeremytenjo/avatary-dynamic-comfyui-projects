@@ -20,7 +20,7 @@
     },
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/xmiramixo-lora-krea2-v1_000002250.safetensors?download=true",
-      "target": "models/loras/xmiramixo-lora-krea2-v1_000002250.safetensors"
+      "target": "models/loras/xmiramixo-lora-krea2-v1_000004250.safetensors"
     },
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/realism_engine_krea2_v1.safetensors?download=true",

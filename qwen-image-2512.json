@@ -9,6 +9,7 @@
       "commands": [
         "pkill -f '[m]ain.py' || true",
         "sleep 5",
+        "pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121 --force-reinstall",
         "COMFY_DIR=\"/workspace/runpod-slim/ComfyUI\"; [ -d \"$COMFY_DIR\" ] || COMFY_DIR=\"/workspace/ComfyUI\"; cd \"$COMFY_DIR\" && python3 main.py --listen 0.0.0.0 --port 8188 --cache-none --mmap-torch-files"
       ]
     }

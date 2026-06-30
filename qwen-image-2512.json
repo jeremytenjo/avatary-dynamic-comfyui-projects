@@ -69,10 +69,7 @@
       "url": "https://huggingface.co/Comfy-Org/HunyuanVideo_1.5_repackaged/resolve/main/split_files/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors",
       "target": "models/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors"
     },
-    {
-      "url": "https://huggingface.co/Comfy-Org/gemma-4/resolve/bd921e1bc843b4d4eb911695a9f0e9a3c83fce19/text_encoders/gemma4_e4b_it_fp8_scaled.safetensors",
-      "target": "models/text_encoders/gemma4_e4b_it_fp8_scaled.safetensors"
-    },
+
     {
       "url": "https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/vae/qwen_image_vae.safetensors",
       "target": "models/vae/qwen_image_vae.safetensors"
@@ -92,10 +89,6 @@
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/Qwen-Image_SmartphoneSnapshotPhotoReality_v4_by-AI_Characters_TRIGGER%24amateur%20photo%24.safetensors",
       "target": "models/loras/Qwen-Image_SmartphoneSnapshotPhotoReality_v4_by-AI_Characters_TRIGGER$amateur photo$.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/Qwen_Snofs_1_3.safetensors",
-      "target": "models/loras/Qwen_Snofs_1_3.safetensors"
     },
     {
       "url": "https://huggingface.co/kudzueye/boreal-qwen-image/resolve/main/qwen-boreal-portraits-portraits-high-rank.safetensors",
@@ -128,26 +121,6 @@
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/xmiramixo-lora-v1_000002250.safetensors?download=true",
       "target": "models/loras/xmiramixo-lora-v1_000002250.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/lustify_endgame.safetensors",
-      "target": "models/checkpoints/lustify_endgame.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/avatary-ai/files/resolve/main/sam_vit_b_01ec64.pth",
-      "target": "models/sams/sam_vit_b_01ec64.pth"
-    },
-    {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/pussyV2.pt",
-      "target": "models/ultralytics/bbox/pussyV2.pt"
-    },
-    {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/Nipples.pt",
-      "target": "models/ultralytics/bbox/Nipples.pt"
-    },
-    {
-      "url": "https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors",
-      "target": "models/vae/vae-ft-mse-840000-ema-pruned.safetensors"
     },
     {
       "url": "https://huggingface.co/Comfy-Org/lotus/resolve/main/lotus-depth-d-v1-1.safetensors",

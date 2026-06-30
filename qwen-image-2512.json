@@ -16,44 +16,8 @@
   },
   "custom_nodes": [
     {
-      "repo_dir": "ComfyUI-SeedVR2_VideoUpscaler",
-      "repo": "https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler.git"
-    },
-    {
-      "repo_dir": "ComfyUI-Easy-Use",
-      "repo": "https://github.com/yolain/ComfyUI-Easy-Use.git"
-    },
-    {
-      "repo_dir": "ComfyUI-RvTools_v2",
-      "repo": "https://github.com/r-vage/ComfyUI-RvTools_v2.git"
-    },
-    {
-      "repo_dir": "RES4LYF",
-      "repo": "https://github.com/ClownsharkBatwing/RES4LYF.git"
-    },
-    {
-      "repo_dir": "ComfyUI-Chibi-Nodes",
-      "repo": "https://github.com/chibiace/ComfyUI-Chibi-Nodes.git"
-    },
-    {
-      "repo_dir": "ComfyUI-QwenVL",
-      "repo": "https://github.com/1038lab/ComfyUI-QwenVL"
-    },
-    {
-      "repo_dir": "ComfyUI-Impact-Pack",
-      "repo": "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
-    },
-    {
-      "repo_dir": "ComfyUI-Impact-Subpack",
-      "repo": "https://github.com/ltdrdata/ComfyUI-Impact-Subpack"
-    },
-    {
       "repo_dir": "ComfyUI-Avatary",
       "repo": "https://github.com/jeremytenjo/ComfyUI-Avatary.git"
-    },
-    {
-      "repo_dir": "comfyui_controlnet_aux",
-      "repo": "https://github.com/Fannovel16/comfyui_controlnet_aux.git"
     },
     {
       "repo_dir": "ComfyUI-CacheDiT",
@@ -69,14 +33,9 @@
       "url": "https://huggingface.co/Comfy-Org/HunyuanVideo_1.5_repackaged/resolve/main/split_files/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors",
       "target": "models/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors"
     },
-
     {
       "url": "https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/vae/qwen_image_vae.safetensors",
       "target": "models/vae/qwen_image_vae.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/Qwen-Image-InstantX-ControlNet-Union.safetensors",
-      "target": "models/controlnet/Qwen-Image-InstantX-ControlNet-Union.safetensors"
     },
     {
       "url": "https://huggingface.co/Lingyuzhou/Qwen_majic_beauty/resolve/main/QWEN_%E9%BA%A6%E6%A9%98%E5%8D%83%E9%97%AE%E7%BE%8E%E4%BA%BA.safetensors",
@@ -87,44 +46,12 @@
       "target": "models/loras/qwen-edit-skin.safetensors"
     },
     {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/Qwen-Image_SmartphoneSnapshotPhotoReality_v4_by-AI_Characters_TRIGGER%24amateur%20photo%24.safetensors",
-      "target": "models/loras/Qwen-Image_SmartphoneSnapshotPhotoReality_v4_by-AI_Characters_TRIGGER$amateur photo$.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/kudzueye/boreal-qwen-image/resolve/main/qwen-boreal-portraits-portraits-high-rank.safetensors",
-      "target": "models/loras/qwen-boreal-portraits-portraits-high-rank.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/c33c3-lora-qwen-2512-v1-5000.safetensors",
-      "target": "models/loras/c33c3-lora-qwen-2512-v1-5000.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/blaz-lora-qwen.safetensors?download=true",
-      "target": "models/loras/blaz-lora-qwen.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/lily-lora-qwen-v1.safetensors?download=true",
-      "target": "models/loras/lily-lora-qwen-v1.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/ivy-lora-body-v1-5000.safetensors",
-      "target": "models/loras/ivy-lora-body-v1-5000.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/isab3lla-lora-body-v1_000004750.safetensors",
-      "target": "models/loras/isab3lla-lora-body-v1_000004750.safetensors"
-    },
-    {
-      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/isab3lla-lora-body-v1.safetensors",
-      "target": "models/loras/isab3lla-lora-body-v1.safetensors"
-    },
-    {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/xmiramixo-lora-v1_000002250.safetensors?download=true",
       "target": "models/loras/xmiramixo-lora-v1_000002250.safetensors"
     },
     {
-      "url": "https://huggingface.co/Comfy-Org/lotus/resolve/main/lotus-depth-d-v1-1.safetensors",
-      "target": "models/diffusion_models/lotus-depth-d-v1-1.safetensors"
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/Qwen-Image_SmartphoneSnapshotPhotoReality_v4_by-AI_Characters_TRIGGER%24amateur%20photo%24.safetensors",
+      "target": "models/loras/Qwen-Image_SmartphoneSnapshotPhotoReality_v4_by-AI_Characters_TRIGGER$amateur photo$.safetensors"
     }
   ]
 }

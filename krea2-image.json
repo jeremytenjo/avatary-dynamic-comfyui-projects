@@ -1,8 +1,7 @@
 {
-  "custom_nodes": [
+  "import_projects": [
     {
-      "repo_dir": "ComfyUI-Avatary",
-      "repo": "https://github.com/jeremytenjo/ComfyUI-Avatary.git"
+      "project_url": "https://github.com/jeremytenjo/avatary-dynamic-comfyui-projects/blob/main/seedvr2-image-upscaler.json"
     }
   ],
   "files": [

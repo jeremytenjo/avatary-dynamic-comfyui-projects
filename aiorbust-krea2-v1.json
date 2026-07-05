@@ -1,0 +1,58 @@
+{
+  "custom_nodes": [
+    {
+      "repo_dir": "Comfyui-NAG-Aiorbust",
+      "repo": "https://github.com/dci05049/Comfyui-NAG-Aiorbust"
+    },
+    {
+      "repo_dir": "comfyui-ideogram-autoprompter",
+      "repo": "https://github.com/collbroGTR/comfyui-ideogram-autoprompter.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Krea2T-Enhancer",
+      "repo": "https://github.com/capitan01R/ComfyUI-Krea2T-Enhancer.git"
+    },
+    {
+      "repo_dir": "ComfyUI-RvTools_v2",
+      "repo": "https://github.com/r-vage/ComfyUI-RvTools_v2.git"
+    },
+    {
+      "repo_dir": "rgthree-comfy",
+      "repo": "https://github.com/rgthree/rgthree-comfy.git"
+    },
+    {
+      "repo_dir": "RES4LYF",
+      "repo": "https://github.com/ClownsharkBatwing/RES4LYF.git"
+    },
+    {
+      "repo_dir": "Nvidia_RTX_Nodes_ComfyUI",
+      "repo": "https://github.com/Comfy-Org/Nvidia_RTX_Nodes_ComfyUI.git"
+    }
+  ],
+  "files": [
+    {
+      "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/diffusion_models/krea2_turbo_fp8_scaled.safetensors",
+      "target": "models/diffusion_models/krea2_turbo_fp8_scaled.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/text_encoders/qwen3vl_4b_bf16.safetensors",
+      "target": "models/text_encoders/qwen3vl_4b_bf16.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/vae/qwen_image_vae.safetensors",
+      "target": "models/vae/wan_2.1_vae.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/diobrando0/krea2_loras_public/resolve/main/snofs_krea_v1.safetensors",
+      "target": "models/loras/snofs_krea_v1.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/RudySen/Krea2-realism-V1/resolve/main/Krea2-realism-V1.safetensors",
+      "target": "models/loras/Krea2-realism-V1.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/xmiramixo-lora-krea2-v1_000002250.safetensors?download=true",
+      "target": "models/loras/xmiramixo-lora-krea2-v1_000004250.safetensors"
+    }
+  ]
+}

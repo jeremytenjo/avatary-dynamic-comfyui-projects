@@ -1,0 +1,66 @@
+{
+  "custom_nodes": [
+    {
+      "repo_dir": "comfyui-scail2-infinity",
+      "repo": "https://github.com/collbroGTR/comfyui-scail2-infinity.git"
+    },
+    {
+      "repo_dir": "ComfyUI-KJNodes",
+      "repo": "https://github.com/kijai/ComfyUI-KJNodes.git"
+    },
+    {
+      "repo_dir": "ComfyUI-VideoHelperSuite",
+      "repo": "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Frame-Interpolation",
+      "repo": "https://github.com/Fannovel16/ComfyUI-Frame-Interpolation.git"
+    },
+    {
+      "repo_dir": "Nvidia_RTX_Nodes_ComfyUI",
+      "repo": "https://github.com/Comfy-Org/Nvidia_RTX_Nodes_ComfyUI.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Easy-Use",
+      "repo": "https://github.com/yolain/ComfyUI-Easy-Use.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Custom-Scripts",
+      "repo": "https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git"
+    }
+  ],
+  "files": [
+    {
+      "url": "https://huggingface.co/Comfy-Org/SCAIL-2/resolve/main/diffusion_models/wan2.1_14B_SCAIL_2_fp8_scaled.safetensors",
+      "target": "models/diffusion_models/wan2.1_14B_SCAIL_2_fp8_scaled.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+      "target": "models/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/vae/wan_2.1_vae.safetensors",
+      "target": "models/vae/wan_2.1_vae.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/clip_vision/clip_vision_h.safetensors",
+      "target": "models/clip_vision/clip_vision_h.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/sam3.1/resolve/main/checkpoints/sam3.1_multiplex_fp16.safetensors",
+      "target": "models/checkpoints/sam3.1_multiplex_fp16.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/wangkanai/wan21-lightx2v-i2v-14b-480p/resolve/main/loras/wan/wan21-lightx2v-i2v-14b-480p-cfg-step-distill-rank256-bf16.safetensors",
+      "target": "models/loras/Wan22/wan21-lightx2v-i2v-14b-480p-cfg-step-distill-rank256-bf16.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Pusa/Wan21_PusaV1_LoRA_14B_rank512_bf16.safetensors",
+      "target": "models/loras/Wan22/Wan21_PusaV1_LoRA_14B_rank512_bf16.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/VMTamashii/rife49/resolve/main/rife49.pth",
+      "target": "models/rife/rife49.pth"
+    }
+  ]
+}

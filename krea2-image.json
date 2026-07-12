@@ -4,6 +4,16 @@
       "project_url": "https://github.com/jeremytenjo/avatary-dynamic-comfyui-projects/blob/main/seedvr2-image-upscaler.json"
     }
   ],
+  "hooks": {
+    "on_install_complete": {
+      "commands": [
+        "python -m pip uninstall -y torch torchvision torchaudio",
+        "python -m pip install --no-cache-dir --force-reinstall torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu130",
+        "python -c \"import torch, torchvision; print(torch.__version__, torchvision.__version__)\"",
+        "dc start"
+      ]
+    }
+  },
   "files": [
     {
       "url": "https://huggingface.co/krea/Krea-2-Turbo/resolve/main/turbo.safetensors?download=true",

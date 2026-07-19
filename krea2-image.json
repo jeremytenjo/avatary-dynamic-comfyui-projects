@@ -38,6 +38,10 @@
     {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/krea2-lora-bloomgirls-ultrarealism-beta-v1.safetensors?download=true",
       "target": "models/loras/krea2-lora-bloomgirls-ultrarealism-beta-v1.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/l1ly-lora-krea2-v1-3000.safetensors?download=true",
+      "target": "models/loras/l1ly-lora-krea2-v1-3000.safetensors"
     }
   ]
 }

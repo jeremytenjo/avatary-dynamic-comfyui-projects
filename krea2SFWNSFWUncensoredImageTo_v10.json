@@ -1,0 +1,67 @@
+{
+  "import_projects": [
+    {
+      "project_url": "https://github.com/jeremytenjo/avatary-dynamic-comfyui-projects/blob/main/seedvr2-image-upscaler.json"
+    }
+  ],
+  "custom_nodes": [
+    {
+      "repo_dir": "ComfyUI-Krea2T-Enhancer",
+      "repo": "https://github.com/capitan01R/ComfyUI-Krea2T-Enhancer.git"
+    },
+    {
+      "repo_dir": "rgthree-comfy",
+      "repo": "https://github.com/rgthree/rgthree-comfy.git"
+    },
+    {
+      "repo_dir": "cg-use-everywhere",
+      "repo": "https://github.com/chrisgoringe/cg-use-everywhere.git"
+    },
+    {
+      "repo_dir": "was-node-suite-comfyui",
+      "repo": "https://github.com/WASasquatch/was-node-suite-comfyui.git"
+    },
+    {
+      "repo_dir": "ComfyUI_LayerStyle",
+      "repo": "https://github.com/chflame163/ComfyUI_LayerStyle.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Image-Saver",
+      "repo": "https://github.com/alexopus/ComfyUI-Image-Saver.git"
+    },
+    {
+      "repo_dir": "ComfyUI-Custom-Scripts",
+      "repo": "https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git"
+    },
+    {
+      "repo_dir": "CRT-Nodes",
+      "repo": "https://github.com/PGCRT/CRT-Nodes.git"
+    },
+    {
+      "repo_dir": "Comfyui-Resolution-Master",
+      "repo": "https://github.com/Azornes/Comfyui-Resolution-Master.git"
+    }
+  ],
+  "files": [
+    {
+      "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/diffusion_models/krea2_turbo_fp8_scaled.safetensors",
+      "target": "models/diffusion_models/Krea2/krea2_turbo_fp8_scaled.safetensors"
+    },
+    {
+      "url": "https://civitai.com/api/download/models/3070870",
+      "target": "models/text_encoders/Qwen3VL4B/qwen3vl-4b-abliterated_fp8_e4m3fn.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/vae/qwen_image_vae.safetensors",
+      "target": "models/vae/qwen_image_vae.safetensors"
+    },
+    {
+      "url": "https://civitai.com/api/download/models/3071760",
+      "target": "models/loras/Krea2/KNPV3_1.safetensors"
+    },
+    {
+      "url": "https://huggingface.co/numz/SeedVR2_comfyUI/resolve/main/seedvr2_ema_7b_fp16.safetensors",
+      "target": "models/SEEDVR2/seedvr2_ema_7b_fp16.safetensors"
+    }
+  ]
+}

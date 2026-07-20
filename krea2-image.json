@@ -24,6 +24,10 @@
       "target": "models/vae/qwen_image_vae.safetensors"
     },
     {
+      "url": "https://huggingface.co/krea/Krea-2-Turbo/resolve/main/turbo.safetensors?download=true",
+      "target": "models/diffusion_models/turbo.safetensors"
+    },
+    {
       "url": "https://huggingface.co/jeremyhola/LORAs/resolve/main/redcraftKREA2RedMix_krea2Edition.safetensors?download=true",
       "target": "models/checkpoints/redcraftKREA2RedMix_krea2Edition.safetensors"
     },
